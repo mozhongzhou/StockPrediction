@@ -12,42 +12,45 @@ os.makedirs(output_dir, exist_ok=True)  # 如果 multimodal 目录不存在就�
 print(f"K-line from: {kline_dir}")  # 打印 K 线数据路径，调试用
 print(f"Saving to: {output_dir}")  # 打印保存路径，确认位置
 
-# 定义生成标签函数，只处理指定股票（NVDA）
+# 定义生成标签函数，只处理 NVDA
 def prepare_labels(stock, future_weeks=4):
     # 加载清洗后的 K 线数据
     # 用 "NVDA_weekly_cleaned.csv"，因为它有日期和原始收盘价（没归一化）
     df = pd.read_csv(os.path.join(kline_dir, f"{stock}_weekly_cleaned.csv"))
     close_prices = df["Close"].values  # 提取收盘价数组，比如 635 个值
-    dates = pd.to_datetime(df["Date"])  # 提取日期，后面调试用
+    dates = pd.to_datetime(df["Date"])  # 提取日期，调试和对齐用
     
     # 加载序列化后的 K 线数据
-    # "NVDA_sequences.npy" 有 532 个样本，用来对齐标签数量
+    # "NVDA_sequences.npy" 有 532 个样本，确定标签数量
     sequences = np.load(os.path.join(kline_dir, f"{stock}_sequences.npy"))  # 形状 (532, 104, 5)
     print(f"Loaded {stock} sequences: {sequences.shape}")  # 确认序列数量
     
     # 生成标签：未来 4 周的涨跌
     labels = []  # 存每个样本的标签（0 或 1）
+    valid_samples = len(close_prices) - 104 - future_weeks + 1  # 计算有效样本数，比如 528
     for i in range(len(sequences)):  # 循环 532 个样本
         current_end = i + 104 - 1  # 当前序列的最后一周索引（0-based，比如 103）
         future_end = current_end + future_weeks  # 未来 4 周的索引（比如 107）
         
-        # 检查未来数据够不够
+        # 只处理有未来数据的样本
         if future_end < len(close_prices):  # 如果未来 4 周有数据
             current_price = close_prices[current_end]  # 当前序列最后一周的收盘价
             future_price = close_prices[future_end]  # 未来 4 周后的收盘价
             label = 1 if future_price > current_price else 0  # 涨=1，跌=0
             labels.append(label)
         else:
-            # 数据不够（比如最后几个样本），填 None，后面处理
-            labels.append(None)
-            print(f"Warning: {stock} sequence {i} (end {dates[current_end]}) lacks future data")
+            # 数据不够的样本，后面填充
+            break
     
-    # 处理标签列表，截到 532 个
-    labels = np.array([l for l in labels if l is not None])[:len(sequences)]  # 去掉 None，截到 532
-    print(f"Generated {stock} labels: {len(labels)} valid samples")  # 确认有效标签数
+    # 填满到 532 个样本
+    if len(labels) < len(sequences):
+        last_label = labels[-1] if labels else 0  # 用最后一个有效标签填充，或默认 0
+        labels.extend([last_label] * (len(sequences) - len(labels)))  # 补齐到 532
+    labels = np.array(labels, dtype=int)  # 转成纯整数数组，避免对象类型
+    print(f"Generated {stock} labels: {len(labels)} samples, valid up to {valid_samples}")
     
     # 保存标签
-    # 存成 "NVDA_labels.npy"，形状 (532,)，每个值是 0 或 1
+    # 存成 "NVDA_labels.npy"，形状 (532,)，全是非空整数
     np.save(os.path.join(output_dir, f"{stock}_labels.npy"), labels)
     print(f"Saved {stock} labels: {len(labels)} samples, shape: {labels.shape}")
 
