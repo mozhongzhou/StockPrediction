@@ -1,5 +1,6 @@
 # train_model_combined.py
 # 综合训练 4 只股票（AAPL, NVDA, TSLA, GOOGL）的多模态 Transformer
+# 修复 num_heads 问题
 
 # 导入必要的库
 import os
@@ -17,20 +18,20 @@ os.makedirs(model_dir, exist_ok=True)
 
 # 定义多模态 Transformer 模型
 class MultimodalTransformer(nn.Module):
-    def __init__(self, kline_input_dim=5, report_input_dim=768, hidden_dim=256, num_layers=4, num_heads=2):
+    def __init__(self, kline_input_dim=5, report_input_dim=768, hidden_dim=256, num_layers=4, num_heads=1):
         super(MultimodalTransformer, self).__init__()
-        # K 线 Transformer，数据多，头数加到 2
+        # K 线 Transformer，num_heads 改回 1，避免 5 除不尽
         self.kline_transformer = nn.TransformerEncoder(
             nn.TransformerEncoderLayer(d_model=kline_input_dim, nhead=num_heads, dim_feedforward=hidden_dim, dropout=0.2),
             num_layers=num_layers
         )
-        # 财报全连接层，压缩到 256 维
+        # 财报全连接层
         self.report_fc = nn.Linear(report_input_dim, hidden_dim)
         self.fc = nn.Linear(kline_input_dim + hidden_dim, 1)
         self.sigmoid = nn.Sigmoid()
 
     def forward(self, kline, report):
-        kline_out = self.kline_transformer(kline)[:, -1, :]  # 取最后一周，(batch, 5)
+        kline_out = self.kline_transformer(kline)[:, -1, :]  # (batch, 5)
         report_out = self.report_fc(report.squeeze(1))  # (batch, 256)
         combined = torch.cat((kline_out, report_out), dim=1)  # (batch, 5 + 256)
         out = self.fc(combined)
@@ -40,24 +41,24 @@ class MultimodalTransformer(nn.Module):
 stocks = ["AAPL", "NVDA", "TSLA", "GOOGL"]
 all_kline, all_report, all_labels = [], [], []
 for stock in stocks:
-    kline = np.load(os.path.join(data_dir, f"{stock}_kline.npy"))  # (532, 104, 5)
-    report = np.load(os.path.join(data_dir, f"{stock}_report.npy"))  # (532, 1, 768)
-    labels = np.load(os.path.join(data_dir, f"{stock}_labels.npy"))  # (532,)
+    kline = np.load(os.path.join(data_dir, f"{stock}_kline.npy"))
+    report = np.load(os.path.join(data_dir, f"{stock}_report.npy"))
+    labels = np.load(os.path.join(data_dir, f"{stock}_labels.npy"))
     all_kline.append(kline)
     all_report.append(report)
     all_labels.append(labels)
     print(f"Loaded {stock}: kline {kline.shape}, report {report.shape}, labels {labels.shape}")
 
 # 拼接数据
-kline = np.concatenate(all_kline, axis=0)  # (2128, 104, 5)
-report = np.concatenate(all_report, axis=0)  # (2128, 1, 768)
-labels = np.concatenate(all_labels, axis=0)  # (2128,)
+kline = np.concatenate(all_kline, axis=0)  # (2132, 104, 5)
+report = np.concatenate(all_report, axis=0)  # (2132, 1, 768)
+labels = np.concatenate(all_labels, axis=0)  # (2132,)
 print(f"Combined data: kline {kline.shape}, report {report.shape}, labels {labels.shape}")
 
 # 转 PyTorch 张量
 kline = torch.FloatTensor(kline)
 report = torch.FloatTensor(report)
-labels = torch.FloatTensor(labels).unsqueeze(1)  # (2128, 1)
+labels = torch.FloatTensor(labels).unsqueeze(1)  # (2132, 1)
 
 # 分训练和测试集
 train_kline, test_kline, train_report, test_report, train_labels, test_labels = train_test_split(
