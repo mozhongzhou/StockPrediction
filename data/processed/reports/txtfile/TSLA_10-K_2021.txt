@@ -1,0 +1,1911 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-K/A
+(Amendment No. 1)
+(Mark One)
+☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended December 31, 2021
+OR
+☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from to
+Commission File Number: 001-34756
+Tesla, Inc.
+(Exact name of registrant as specified in its charter)
+Delaware 91-2197729
+(State or other jurisdiction of (I.R.S. Employer
+incorporation or organization) Identification No.)
+1 Tesla Road
+Austin, Texas 78725
+(Address of principal executive offices) (Zip Code)
+(512) 516-8177
+(Registrant’s telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class Trading Symbol(s) Name of each exchange on which registered
+Common stock TSLA The Nasdaq Global Select Market
+Securities registered pursuant to Section 12(g) of the Act:
+None
+Indicate by check mark whether the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ☒ No ☐
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or 15(d) of the Act. Yes ☐ No ☒
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 (“Exchange Act”) during the preceding 12
+months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter)
+during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the
+definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act:
+Large accelerated filer ☒ Accelerated filer ☐
+Non-accelerated filer ☐ Smaller reporting company ☐
+Emerging growth company ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the Registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under
+Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. ☒
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No ☒
+The aggregate market value of voting stock held by non-affiliates of the registrant, as of June 30, 2021, the last day of the registrant’s most recently completed second fiscal quarter, was
+$541.28 billion (based on the closing price for shares of the registrant’s Common Stock as reported by the NASDAQ Global Select Market on June 30, 2021). Shares of Common Stock held by each
+executive officer, director, and holder of 5% or more of the outstanding Common Stock have been excluded in that such persons may be deemed to be affiliates. This determination of affiliate status is
+not necessarily a conclusive determination for other purposes.
+As of January 31, 2022, there were 1,033,507,611 shares of the registrant’s Common Stock outstanding.
+Auditor Name: PricewaterhouseCoopers LLP Auditor Location: San Jose, California Auditor Firm ID: 238
+EXPLANATORY NOTE
+On February 7, 2022, Tesla, Inc. (“Tesla,” the “Company,” “we,” “us,” or “our”) filed our Annual Report on Form 10-K for the fiscal year ended
+December 31, 2021 (the “Original Form 10-K”). The Original Form 10-K omitted Part III, Items 10 (Directors, Executive Officers and Corporate
+Governance), 11 (Executive Compensation), 12 (Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters), 13
+(Certain Relationships and Related Transactions, and Director Independence) and 14 (Principal Accountant Fees and Services) in reliance on General
+Instruction G(3) to Form 10-K, which provides that such information may be either incorporated by reference from the registrant’s definitive proxy
+statement or included in an amendment to Form 10-K, in either case filed with the Securities and Exchange Commission (the “SEC”) not later than 120
+days after the end of the fiscal year.
+We currently expect that our definitive proxy statement for the 2022 annual meeting of stockholders will be filed later than the 120th day after the
+end of the last fiscal year. Accordingly, this Amendment No. 1 to Form 10-K (this “Amendment”) is being filed solely to:
+• amend Part III, Items 10, 11, 12, 13 and 14 of the Original Form 10-K to include the information required by such Items;
+• delete the reference on the cover of the Original Form 10-K to the incorporation by reference of portions of our proxy statement into Part III
+of the Original Form 10-K; and
+• file new certifications of our principal executive officer and principal financial officer as exhibits to this Amendment under Item 15 of Part
+IV hereof, pursuant to Rule 12b-15 under the Securities Exchange Act of 1934, as amended (the “Exchange Act”).
+This Amendment does not otherwise change or update any of the disclosures set forth in the Original Form 10-K and does not otherwise reflect any
+events occurring after the filing of the Original Form 10-K.
+TESLA, INC.
+AMENDMENT NO. 1 TO ANNUAL REPORT ON FORM 10-K/A
+FOR THE YEAR ENDED DECEMBER 31, 2021
+INDEX
+Page
+EXPLANATORY NOTE.
+PART III.
+Item 10. Directors, Executive Officers and Corporate Governance 1
+Item 11. Executive Compensation 5
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 22
+Item 13. Certain Relationships and Related Transactions and Director Independence 24
+Item 14. Principal Accountant Fees and Services 26
+PART IV.
+Item 15. Exhibits and Financial Statement Schedules 29
+Signatures 53
+i
+PART III
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE
+Board of Directors
+Background and Qualifications
+The names of the members of Tesla’s Board of Directors (the “Board”), their respective ages, their positions with Tesla and other biographical
+information as of April 28, 2022 are set forth below. Except for Messrs. Elon Musk and Kimbal Musk, who are brothers, there are no other family
+relationships among any of our directors or executive officers.
+Nominating
+and
+Corporate Disclosure
+Chair of the Audit Compensation Governance Controls
+Name Age Board Committee Committee Committee Committee
+Elon Musk 50
+Robyn Denholm 58 X X X X X
+Ira Ehrenpreis 53 X X
+Lawrence J. Ellison 77
+Hiromichi Mizuno 56 X
+James Murdoch 49 X X X
+Kimbal Musk 49
+Kathleen Wilson-Thompson 54 X X X
+Elon Musk is the Technoking of Tesla and has served as our Chief Executive Officer since October 2008 and as a member of the Board since
+April 2004. Mr. Musk has also served as Chief Executive Officer, Chief Technology Officer and Chairman of Space Exploration Technologies Corporation,
+an advanced rocket and spacecraft manufacturing and services company (“SpaceX”), since May 2002, and served as Chairman of the Board of SolarCity
+Corporation, a solar installation company (“SolarCity”), from July 2006 until its acquisition by us in November 2016. Mr. Musk is also a founder of The
+Boring Company, an infrastructure company, and of Neuralink Corp., a company focused on developing brain-machine interfaces. Prior to SpaceX,
+Mr. Musk co-founded PayPal, an electronic payment system, which was acquired by eBay in October 2002, and Zip2 Corporation, a provider of Internet
+enterprise software and services, which was acquired by Compaq in March 1999. Mr. Musk has also served on the board of directors of Endeavor Group
+Holdings, Inc. since April 2021. Mr. Musk holds a B.A. in Physics from the University of Pennsylvania and a B.S. in Business from the Wharton School of
+the University of Pennsylvania.
+We believe that Mr. Musk possesses specific attributes that qualify him to serve as a member of the Board, including the perspective and
+experience he brings as our Chief Executive Officer, one of our founders and our largest stockholder, which brings historic knowledge, operational
+expertise and continuity to the Board.
+Robyn Denholm has been a member of the Board since August 2014 and its Chair since November 2018. Since January 2021, Ms. Denholm has
+been an operating partner of Blackbird Ventures, a venture capital firm. From January 2017 through June 2019, Ms. Denholm was with Telstra
+Corporation Limited, a telecommunications company (“Telstra”), where she served as Chief Financial Officer and Head of Strategy from October 2018
+through June 2019, and Chief Operations Officer from January 2017 to October 2018. Prior to Telstra, from August 2007 to July 2016, Ms. Denholm was
+with Juniper Networks, Inc., a manufacturer of networking equipment, serving in executive roles including Executive Vice President, Chief Financial
+Officer and Chief Operations Officer. Prior to joining Juniper Networks, Ms. Denholm served in various executive roles at Sun Microsystems, Inc. from
+January 1996 to August 2007. Ms. Denholm also served at Toyota Motor Corporation Australia for seven years and at Arthur Andersen & Company for five
+years in various finance assignments. Ms. Denholm previously served as a director of ABB Ltd. from 2016 to 2017. Ms. Denholm is a Fellow of the
+Institute of Chartered Accountants of Australia/New Zealand, a member of the Australian Institute of Company Directors, and holds a Bachelor’s degree
+1
+in Economics from the University of Sydney, and a Master’s degree in Commerce and a Doctor of Business Administration (honoris causa) from the
+University of New South Wales.
+We believe that Ms. Denholm possesses specific attributes that qualify her to serve as a member of the Board and as its Chair as well as the chair
+of each of our Audit Committee and Disclosure Controls Committee, such as her executive leadership experience and her financial and accounting
+expertise with international companies, including in the technology and automotive industries.
+Ira Ehrenpreis has been a member of the Board since May 2007. Mr. Ehrenpreis has been a venture capitalist since 1996. He is founder and
+managing member of DBL Partners, a leading impact investing venture capital firm formed in 2015, and previously led the Energy Innovation practice at
+Technology Partners. In the venture capital industry, Mr. Ehrenpreis has served on the board, Executive Committee, and as Annual Meeting Chairman of
+the National Venture Capital Association (NVCA). Mr. Ehrenpreis currently serves as the President of the Western Association of Venture Capitalists
+(WAVC) and as the Chairman of the VCNetwork, the largest and most active California venture capital organization. In the cleantech sector, he has
+served on several industry boards, including the American Council on Renewable Energy and the Cleantech Venture Network (Past Chairman of Advisory
+Board), as the Chairman of the Clean-Tech Investor Summit for nine years, and on the Stanford Precourt Institute for Energy (PIE) Advisory Council. Mr.
+Ehrenpreis also serves as Chairman of the World Energy Innovation Forum. Mr. Ehrenpreis was awarded the 2018 NACD Directorship 100 for his
+influential leadership in the boardroom and corporate governance community. Mr. Ehrenpreis holds a B.A. from the University of California, Los Angeles
+and a J.D. and M.B.A. from Stanford University.
+We believe that Mr. Ehrenpreis possesses specific attributes that qualify him to serve as a member of the Board and to serve as chair of each of
+our Nominating and Corporate Governance Committee and our Compensation Committee, including his experience in the cleantech and venture capital
+industries.
+Lawrence J. Ellison has been a member of the Board since December 2018. Mr. Ellison is the founder of Oracle Corporation, a software and
+technology company, has served as its Chief Technical Officer since September 2014 and previously served as its Chief Executive Officer from June 1977
+to September 2014. Mr. Ellison has also served on Oracle’s board of directors since June 1977, including as its Chairman since September 2014 and
+previously from May 1995 to January 2004.
+We believe that Mr. Ellison possesses specific attributes that qualify him to serve as a member of the Board, including his long-term leadership of
+one of the most successful technology companies in the world and experience with technology product development and strategy.
+Hiromichi Mizuno has been a member of the Board since April 2020. Since January 2021, Mr. Mizuno has served as the United Nations Special
+Envoy on Innovative Finance and Sustainable Investments. Mr. Mizuno has also served as the representative partner and Chief Executive Officer of Good
+Steward Partners, LLC, a consulting firm, since March 2021. From January 2015 to March 2020, Mr. Mizuno was Executive Managing Director and Chief
+Investment Officer of Japan’s Government Pension Investment Fund, the largest pension fund in the world. Previously, Mr. Mizuno was a partner at Coller
+Capital, a private equity firm, from 2003. In addition to being a career-long finance and investment professional, Mr. Mizuno has served as a board
+member of numerous business, government and other organizations, currently including the Mission Committee of Danone S.A., a global food products
+company, and the World Economic Forum’s Global Future Council. Mr. Mizuno is also involved in academia and thought leadership, having been named
+to leadership or advisory roles at Harvard University, University of Cambridge, Northwestern University and the Milken Institute. Mr. Mizuno holds a B.A.
+in Law from Osaka City University and an M.B.A. from the Kellogg Graduate School of Management at Northwestern University.
+We believe that Mr. Mizuno possesses specific attributes that qualify him to serve as a member of the Board, including his deep understanding of
+international economics, financial markets and government policies.
+James Murdoch has been a member of the Board since July 2017. Mr. Murdoch has been the Chief Executive Officer of Lupa Systems, a private
+investment company that he founded, since March 2019. Previously, Mr. Murdoch held a number of leadership roles at Twenty-First Century Fox, Inc., a
+media company (“21CF”), over two
+2
+decades, including its Chief Executive Officer from 2015 to March 2019, its Co-Chief Operating Officer from 2014 to 2015, its Deputy Chief Operating
+Officer and Chairman and Chief Executive Officer, International from 2011 to 2014 and its Chairman and Chief Executive, Europe and Asia from 2007 to
+2011. Previously, he served as the Chief Executive Officer of Sky plc from 2003 to 2007, and as the Chairman and Chief Executive Officer of STAR Group
+Limited, a subsidiary of 21CF, from 2000 to 2003. Mr. Murdoch also formerly served on the boards of News Corporation from 2013 to 2020, of 21CF from
+2007 to 2019 and of Sky plc from 2003 to 2018.
+We believe that Mr. Murdoch possesses specific attributes that qualify him to serve as a member of the Board, including his lengthy executive and
+board experience across numerous companies, extensive knowledge of international markets and strategies and experience with the adoption of new
+technologies.
+Kimbal Musk has been a member of the Board since April 2004. Mr. Musk is co-founder and Executive Chairman of The Kitchen Restaurant
+Group, a growing family of businesses with the goal of providing all Americans with access to real food that was founded in 2004. In 2010, Mr. Musk
+became the Executive Director of Big Green (formerly The Kitchen Community), a non-profit organization that creates learning gardens in schools across
+the United States. Mr. Musk also co-founded Square Roots, an urban farming incubator program, in 2016, and serves as its Chairman. Previously, Mr.
+Musk was a co-founder of Zip2 Corporation, a provider of enterprise software and services, which was acquired by Compaq in March 1999. Mr. Musk was
+a director of SpaceX from 2002 until January 2022, and a director of Chipotle Mexican Grill, Inc. from 2013 to 2019. Mr. Musk holds a B. Comm. in
+Business from Queen’s University and is a graduate of The French Culinary Institute in New York City.
+We believe that Mr. Musk possesses specific attributes that qualify him to serve as a member of the Board, including his business experience in
+retail and consumer markets, his experience on the Board and his experience with technology companies.
+Kathleen Wilson-Thompson has been a member of the Board since December 2018. Ms. Wilson-Thompson served as Executive Vice President
+and Global Chief Human Resources Officer of Walgreens Boots Alliance, Inc., a global pharmacy and wellbeing company, from December 2014 until her
+retirement in January 2021, and previously served as Senior Vice President and Chief Human Resources Officer from January 2010 to December 2014.
+Prior to Walgreens, Ms. Wilson-Thompson held various legal and operational roles at The Kellogg Company, a food manufacturing company, from July
+2005 to December 2009, including most recently as its Senior Vice President, Global Human Resources. Ms. Wilson-Thompson has served on the board of
+directors of Wolverine World Wide, Inc. since May 2021 and McKesson Corporation since January 2022. She previously served on the board of directors of
+Ashland Global Holdings Inc. from 2017 to 2020 and on the board of directors of Vulcan Materials Company from 2009 to 2018. Ms. Wilson-Thompson
+holds an A.B. in English Literature from the University of Michigan and a J.D. and L.L.M. (Corporate and Finance Law) from Wayne State University.
+We believe that Ms. Wilson-Thompson possesses specific attributes that qualify her to serve as a member of the Board, including her executive
+and board experience with both consumer-focused and industrial companies, as well as her expertise in managing human resources and other operations
+at mature companies with large workforces.
+Additional Board Information
+On October 16, 2018, the U.S. District Court for the Southern District of New York entered a final judgment approving the terms of a settlement
+filed with the court on September 29, 2018, in connection with the actions taken by the SEC relating to Elon Musk’s August 7, 2018 Twitter post that he
+was considering taking Tesla private. On April 26, 2019, this settlement was amended to clarify certain of its terms, which was subsequently approved by
+the Court. Mr. Musk did not admit or deny any of the SEC’s allegations, and there is no restriction on Mr. Musk’s ability to serve as an officer or director
+on the Board (other than as its Chair for a specified time).
+Audit Committee
+The Board has four standing committees comprised solely of independent directors—the Audit Committee, the Compensation Committee, the
+Nominating and Corporate Governance Committee and the Disclosure Controls Committee. The Audit Committee, which has been established in
+accordance with Section 3(a)(58) of the Exchange Act, currently consists of Robyn Denholm, Hiromichi Mizuno and James Murdoch, each of whom is
+“independent” as such term is defined for audit committee members by the listing standards of The NASDAQ Stock Market LLC
+3
+(“NASDAQ”). Ms. Denholm is the chair of the Audit Committee. The Board has determined that Ms. Denholm is an “audit committee financial expert” as
+defined in the rules of the SEC.
+Executive Officers
+The names of Tesla’s executive officers, their ages, their positions with Tesla and other biographical information as of April 28, 2022, are set forth
+below. Except for Messrs. Elon Musk and Kimbal Musk, who are brothers, there are no other family relationships among any of our directors or executive
+officers.
+Name Age Position
+Elon Musk 50 Technoking of Tesla and Chief Executive Officer
+Zachary Kirkhorn 37 Master of Coin and Chief Financial Officer
+Senior Vice President, Powertrain and Energy
+Andrew Baglino 41 Engineering
+Elon Musk. For a brief biography of Mr. Musk, see “Board of Directors—Background and Qualifications” under this Item 10 above.
+Zachary Kirkhorn is our Master of Coin and has served as our Chief Financial Officer since March 2019. Previously, Mr. Kirkhorn served in
+various finance positions continuously since joining Tesla in March 2010, other than between August 2011 and June 2013 during which he attended
+business school, including most recently as Vice President, Finance, Financial Planning and Business Operations from December 2018 to March 2019. Mr.
+Kirkhorn holds dual B.S.E. degrees in Economics and Mechanical Engineering and Applied Mechanics from the University of Pennsylvania and an M.B.A.
+from Harvard University.
+Andrew Baglino has served as our Senior Vice President, Powertrain and Energy Engineering since October 2019. Previously, Mr. Baglino
+served in various engineering positions continuously since joining Tesla in March 2006. Mr. Baglino holds a B.S. in Electrical Engineering from Stanford
+University.
+Delinquent Section 16(a) Reports
+Under Section 16 of the Exchange Act, Tesla’s directors, executive officers and any persons holding more than 10% of the Tesla’s common stock
+are required to report initial ownership of the Tesla common stock and any subsequent changes in ownership to the SEC. Specific due dates have been
+established by the SEC, and Tesla is required to disclose in this Amendment any failure to file required ownership reports by these dates. Based solely
+upon a review of forms filed with the SEC and the written representations of such persons, Tesla is aware of no late Section 16(a) filings other than one
+late Form 4 report filed by Jerome Guillen, who departed Tesla in 2021, reporting sales pursuant to a 10b5-1 trading plan, due to an administrative delay
+by Tesla.
+Code of Business Ethics and Corporate Governance Guidelines
+The Board sets high standards for Tesla’s workforce, officers and directors. Tesla is committed to establishing an operating framework that
+exercises appropriate oversight of responsibilities at all levels throughout the Company and managing its affairs in a manner consistent with rigorous
+principles of business ethics. Accordingly, Tesla has adopted a Code of Business Ethics, which it recently updated in December 2021, which is applicable
+to Tesla and its subsidiaries’ directors, officers and personnel. Tesla has also adopted Corporate Governance Guidelines, which, in conjunction with our
+certificate of incorporation, bylaws and charters of the standing committees of the Board, form the framework for Tesla’s corporate governance. The Code
+of Business Ethics and the Corporate Governance Guidelines are each available on Tesla’s website at: http://ir.tesla.com/corporate. Tesla will disclose on
+its website any amendment to the Code of Business Ethics, as well as any waivers of the Code of Business Ethics, that are required to be disclosed by the
+rules of the SEC or NASDAQ.
+4
+ITEM 11. EXECUTIVE COMPENSATION
+Compensation Discussion and Analysis
+The following discussion and analysis of compensation arrangements of our named executive officers for 2021 should be read together with the
+compensation tables and related disclosures set forth below. This discussion contains forward-looking statements that are based on our current
+considerations, expectations and determinations regarding future compensation programs. The actual amount and form of compensation and the
+compensation programs that we adopt may differ materially from current or planned programs as summarized in this discussion.
+The following discussion and analysis relates to the compensation arrangements for 2021 of (i) our principal executive officer, (ii) our principal
+financial officer, (iii) the most highly compensated person, other than our principal executive officer and principal financial officer, who was serving as
+executive officer at the end of our fiscal year ended December 31, 2021 and (iv) our former president of Tesla Heavy Trucking, who served in such
+capacity during part of 2021 (our “named executive officers”). We had no other executive officers serving at the end of our fiscal year ended December
+31, 2021. Our named executive officers for fiscal year 2021 were:
+Name Position
+Elon Musk Technoking of Tesla and Chief Executive Officer
+Zachary Kirkhorn Master of Coin and Chief Financial Officer
+Andrew Baglino Senior Vice President, Powertrain and Energy
+Engineering
+Jerome Guillen Former President, Tesla Heavy Trucking
+Mr. Guillen departed Tesla in June 2021.
+Compensation Philosophy
+Our mission is to accelerate the world’s transition to sustainable energy. This is a long-term mission, and our compensation programs reflect this
+—and our startup origins—in that they consist primarily of salary or wages and equity awards. Whereas salary or wages are intended to meet our
+employees’ near-term liquidity needs, we believe that equity awards are an effective tool for retaining employees long-term, as they vest incrementally
+over a period of time or upon the achievement of specified performance milestones intended to be achieved over the medium- and long-term. Moreover,
+the closing prices of our common stock on the first trading day of each of 2020, 2021 and 2022 were $86.05, $729.77 and $1,199.78, respectively (as
+adjusted for the five-for-one stock split effected in the form of a stock dividend in August 2020, or the “Stock Split”). During periods in which our stock
+price and the underlying value of equity awards increase, their retention impact is even greater. We believe that the potential for such increases also
+creates an ownership culture that promotes holding equity, which in turn aligns the interests of our employees with the long-term interests of our
+stockholders. For these reasons, our goal is to provide each employee with the opportunity to participate in our equity programs, with certain limited
+cash-based bonus programs serving generally to accommodate specific incentive structures or liquidity needs. Combining salary or wages and our equity
+award program, we strive to offer a total level of compensation that is competitive within specific roles and geographical markets.
+In particular, we believe that compensation for the individuals who are responsible for Tesla’s strategic direction and operations should motivate
+them to achieve sustainable stockholder value and/or tangible milestones rather than to simply remain at Tesla or maintain the status quo. Therefore,
+while we offer to our general employee population restricted stock units that will retain some value even if the market value of our stock decreases, we
+are increasingly emphasizing for our executive officers the grant of stock option awards, which have zero initial value and accumulate value, if at all, only
+to the extent that our stock price increases following their grant, through the applicable vesting dates and until such stock options are ultimately
+exercised and the underlying shares are sold. In addition, because equity awards comprise a greater proportion of our executive officers’ total level of
+compensation compared to comparable roles at peer companies, a sustained decrease in our stock price or failure to achieve the applicable operational
+milestones may result in a level of total compensation that is significantly less than that of such peer roles. Likewise, our outside director compensation
+program has been comprised primarily of equity
+5
+awards that are entirely in the form of stock option awards, as well as relatively modest cash retainer payments that may be waived at the election of
+each director.
+We evaluate our compensation philosophy and programs regularly and evolve them as circumstances merit with oversight by the Compensation
+Committee, particularly with respect to executive and director compensation. For example, if our stock price experiences significant movement over a
+short period of time that results in a persistent change to equity compensation, certain adjustments may be considered to align our compensation
+programs to their intended purposes.
+Key Factors in Determining Executive Compensation
+Role of Compensation Committee in Executive Compensation
+The Compensation Committee has overall responsibility for recommending to the Board the compensation of our Chief Executive Officer and
+reviewing and determining the compensation of our other executive officers. Members of the Compensation Committee are appointed by the Board.
+Currently, the Compensation Committee consists of three members of the Board: Ira Ehrenpreis (Chair), Robyn Denholm and Kathleen Wilson-Thompson,
+none of whom is an executive officer of Tesla, and each of whom qualifies as (i) an “independent director” under the NASDAQ Stock Market Rules and
+(ii) an “outside director” under Section 162(m) of the Internal Revenue Code (the “Code”).
+Role of Compensation Consultants
+The Compensation Committee has the authority to engage and has from time to time engaged the services of outside consultants to assist in
+making decisions regarding the establishment of Tesla’s compensation philosophy and programs, including for executives and directors. For example,
+Compensia, Inc., a national compensation consulting firm (“Compensia”), was retained as compensation consultant in 2020 and 2021 to advise the
+Compensation Committee with respect to Tesla’s compensation program for its non-employee directors. Compensia advised the Compensation Committee
+on the design of the Board’s equity award program for the future period until the Compensation Committee’s and Board’s next review of the program,
+including a consideration of Tesla’s exceptional performance and commitment to at-risk director compensation in the form of annual stock option awards
+to ensure continued alignment of the interests of directors with those of Tesla’s stockholders. See “Executive Compensation—Compensation of Directors
+—Non-Employee Director Compensation Arrangements” below for more detail regarding the review of Board compensation during 2020 and 2021.
+Role of Executive Officers in Compensation Decisions
+Historically, for executive officers other than our Chief Executive Officer, the Compensation Committee has sought and considered input from our
+Chief Executive Officer regarding such executive officers’ responsibilities, performance and compensation. Specifically, our Chief Executive Officer
+recommends base salary increases and equity award levels for our senior personnel, and advises the Compensation Committee regarding the
+compensation program’s ability to attract, retain and motivate executive talent. These recommendations reflect compensation levels that our Chief
+Executive Officer believes are qualitatively commensurate with an executive officer’s individual qualifications, experience, responsibility level, functional
+role, knowledge, skills and individual performance, as well as Tesla’s performance. The Compensation Committee considers our Chief Executive Officer’s
+recommendations, but ultimately determines compensation in its judgment, and approves the specific compensation for all of our executive officers (other
+than for our Chief Executive Officer, which is approved by the Board). All such compensation determinations by our Compensation Committee are largely
+discretionary.
+The Compensation Committee meets regularly in executive session. Our Chief Executive Officer is not present during Compensation Committee
+deliberations or votes on his compensation and also recuses himself from sessions of the Board where the Board acts on the Compensation Committee’s
+recommendations regarding his compensation. In addition, the Board has established a management committee under the Tesla, Inc. 2019 Equity
+Incentive Plan (the “Equity Award Committee”) to grant and administer equity awards, subject to certain maximum limits on the seniority of personnel to
+whom the Equity Award Committee may grant awards and the value of any individual award. For example, the Equity Award Committee is not authorized
+to grant awards to executive officer-level employees. Moreover, pursuant to applicable law, the Equity Award Committee may not grant awards to its
+members, and the number of shares of our common stock underlying awards granted by it may not exceed amounts determined by the Board from time to
+time. The Board has delegated to the Compensation Committee oversight authority over the Equity Award Committee.
+6
+Role of Stockholder Say-on-Pay Votes
+At the 2011 annual meeting of our stockholders and at each annual meeting held every three years since, including most recently in 2020, we
+held triennial stockholder advisory “say-on-pay” votes on the compensation of our named executive officers for the immediately preceding fiscal years.
+Each time, our stockholders overwhelmingly approved the compensation of our named executive officers, with over 83% of our stockholders present and
+entitled to vote at each meeting voting in favor of our compensation policies for our named executive officers. Given these results, and following
+consideration of them, the Compensation Committee has decided to retain our overall approach to executive compensation while continuing to evaluate
+our practices frequently, including in response to future say-on-pay votes. Moreover, we are required to hold a vote at least every six years regarding how
+often to hold a stockholder advisory vote on the compensation of our named executive officers. We held our most recent such vote at the 2017 annual
+meeting of stockholders, at which our stockholders indicated a preference for a triennial vote. Consequently, the Board determined that we will hold a
+triennial stockholder advisory vote on the compensation of our named executive officers until they consider the results of our next say-on-pay frequency
+vote, which will be held at the 2023 annual meeting of stockholders.
+Clawback Policy
+Our Corporate Governance Guidelines sets forth a compensation recovery (“clawback”) policy with respect to any annual incentive payment or
+long-term incentive payment that may be received by an executive officer, where such payment would be predicated upon achieving certain financial
+results that were subsequently the subject of a restatement of our financial statements, and a lower payment would have been made to the executive
+based upon the restated financial results. In such case, the Board has the authority to seek to recover from the executive officer the amount by which
+such officer’s incentive payments for the relevant period exceeded the lower payment that would have been made based on the restated financial results.
+Moreover, the terms of the performance-based stock option award granted to Elon Musk in January 2018 (the “2018 CEO Performance Award”)
+include a clawback provision in the event of a restatement of our financial statements previously filed with the SEC. See “Compensation Discussion and
+Analysis—Chief Executive Officer Compensation—2018 CEO Performance Award” under this Item 11 below.
+Current Elements of Named Executive Officer Compensation
+Overview and Fiscal Year 2021 Company Highlights
+Our current executive compensation program, which was developed and approved by the Compensation Committee, generally consists of base
+salary and equity-based incentives, as well as other benefits generally available to employees. We combine these elements in order to formulate
+compensation packages with the goal of providing, on a total basis, competitive pay and align the interests of our named executive officers with long-term
+stockholder interests by tying the value of their compensation to our long-term stock price and/or the achievement of financial, operational and strategic
+objectives. In 2021, Tesla’s full-year accomplishments under our executive leadership included the following:
+• Total revenues of $53.82 billion, representing an increase of $22.28 billion, or 70.64% compared to the prior year;
+• Net income attributable to common stockholders of $5.52 billion and an operating margin of 12.1%, representing favorable changes of
+$4.80 billion and 5.8%, respectively, compared to the prior year;
+• Annual vehicle delivery and production records of 936,222 and 930,422 total vehicles, representing an increase of 87.38% and 82.53%,
+respectively, compared to the prior year;
+• 3.99 gigawatt hours of energy storage and 345 megawatts of solar energy systems deployed; and
+• Ongoing progress in the global growth of our manufacturing capabilities, including the commencement of builds of the Model Y in
+Gigafactory Texas and equipment testing through the vehicle production process in Gigafactory Berlin.
+7
+Base Salary
+The Compensation Committee is responsible for reviewing our Chief Executive Officer’s and other executive officers’ base salaries. The base
+salaries of all executive officers are reviewed and adjusted when necessary to reflect individual roles, performance and the competitive market. Because
+we currently do not provide cash bonuses to our executive officers, salary is the primary cash-based element of our executive officers’ compensation
+structure.
+The following table sets forth information regarding the annualized base salary rates at the end of 2021 for our named executive officers:
+Ending Fiscal 2021
+Name Base Salary($)(1)
+Elon Musk —(2)
+Zachary Kirkhorn 300,000
+Andrew Baglino 300,000
+Jerome Guillen —(3)
+(1) Reflects an annualized rate assuming 52 weeks each comprised of five work days.
+(2) Mr. Musk historically earned a base salary that reflected the applicable minimum wage requirements under California law, and he was subject to
+income taxes based on such base salary. However, he has never accepted his salary. Commencing in May 2019 at Mr. Musk’s request, we
+eliminated altogether the earning and accrual of this base salary.
+(3) Mr. Guillen departed Tesla in June 2021.
+Equity-Based Incentives
+Our equity award program is the primary vehicle for offering long-term incentives to our named executive officers. The equity awards we have
+historically granted and currently grant are options to purchase shares of our common stock and restricted stock unit awards that are settled in shares of
+our common stock upon vesting, and we have granted to our named executive officers both awards that vest over a long-term period and awards that vest
+only upon the achievement of specified Tesla performance milestones, in each case subject to continued service. We are increasingly emphasizing for our
+named executive officers the grant of stock option awards, which have value only to the extent, if any, that our stock price increases following their grant.
+Accordingly, all equity awards granted to our executive officers in 2020 (the last year awards were granted to our executive officers) were in the form of
+stock option awards. As a result, a significant portion of our named executive officers’ total compensation is entirely at risk, depending on long-term stock
+price performance
+While we strive to offer a total level of compensation that is competitive within specific roles and geographical markets, we do not have an
+inflexible set of criteria for granting equity awards; instead, the Compensation Committee exercises its judgment and discretion, in consultation with our
+Chief Executive Officer and from time to time, a compensation consultant. The Compensation Committee considers, among other things, the role and
+responsibility of the named executive officer, competitive market factors, the amount of stock-based equity compensation already held by the named
+executive officer, the impact of any dramatic changes in our stock price over a short period of time and the cash-based compensation received by the
+named executive officer, to determine the level and types of equity awards that it approves. We generally grant one-time new hire equity awards to our
+employees, including executives, upon their commencement of employment with us, or upon their promotion to new positions. Additionally, as part of our
+ongoing executive compensation review and alignment process, we periodically grant additional equity awards to our executives. See “Grants of Plan-
+Based Awards in 2021” under this Item 11 below.
+The Compensation Committee meets periodically, including to approve equity award grants to our executives from time to time. We do not have,
+nor do we plan to establish, any program, plan or practice to time equity award grants in coordination with releasing material non-public information.
+Severance and Change in Control Benefits
+No named executive officer has a severance or change in control arrangement with Tesla, other than the vesting of the 2018 CEO Performance
+Award based solely upon the achievement of market capitalization milestones as measured at the time of a change in control of Tesla. See “Compensation
+Discussion and Analysis—Chief
+8
+Executive Officer Compensation—2018 CEO Performance Award” and “Potential Payments Upon Termination or Change in Control” under this Item 11
+below.
+Bonus
+We do not currently have or have planned, and historically we have rarely entered into, any specific arrangements with our named executive
+officers providing for cash-based bonus awards.
+Non-Equity Incentive Plan Compensation
+We did not provide any non-equity incentive plan compensation to any of our named executive officers in 2021, and we do not currently have or
+have planned any specific arrangements with our named executive officers providing for non-equity incentive plan compensation.
+Perquisites
+Generally, we do not provide any perquisites or other personal benefits to our named executive officers.
+Health and Welfare Benefits
+We provide the following benefits to our named executive officers on the same basis provided to all of our employees:
+• medical insurance including comprehensive transgender and fertility coverage, mental health, dental and vision;
+• adoption and surrogacy benefits;
+• confidential Employee Assistance Program counseling;
+• life insurance and accidental death and dismemberment insurance;
+• a Section 401(k) plan where, beginning in 2022, Tesla will provide a company match equal to 50% of the employee’s contribution, up to a
+maximum of 3% of the employee’s eligible compensation with a $3,000 annual cap;
+• an employee stock purchase plan;
+• short-and long-term disability insurance;
+• medical and dependent care flexible spending account; and
+• a health savings account.
+Chief Executive Officer Compensation
+Overview
+Historically, in developing compensation recommendations for our Chief Executive Officer, the Compensation Committee has sought both to
+appropriately reward our Chief Executive Officer’s previous and current contributions and to create incentives for our Chief Executive Officer to continue
+to contribute significantly to successful results in the future. Each of the 2018 CEO Performance Award and the performance-based stock option award
+granted to our Chief Executive Officer in August 2012 (the “2012 CEO Performance Award”) is focused on this latter objective, as it solely rewards future
+performance.
+In addition to serving as our Chief Executive Officer since October 2008, Elon Musk has contributed significantly and actively to us since our
+earliest days in April 2004 by recruiting executives and engineers, contributing to vehicle engineering and design, raising capital for us and bringing
+investors to us and raising public awareness of Tesla.
+Cash Compensation
+Mr. Musk historically earned a base salary that reflected the applicable minimum wage requirements under California law, and he was subject to
+income taxes based on such base salary. However, he has never accepted his salary. Commencing in May 2019 at Mr. Musk’s request, we eliminated
+altogether the earning and accrual of this base salary.
+9
+Historical Equity Compensation
+Prior to the stock option awards made in December 2009, Mr. Musk did not receive any equity compensation for his services for a period of five
+years.
+In 2010 and 2011, Mr. Musk did not receive any equity grants, because the Compensation Committee believed his grants made in December 2009
+already provided sufficient motivation for Mr. Musk to perform his duties as Chief Executive Officer.
+In August 2012, to create incentives for continued long-term success from the then-recently launched Model S program as well as from Tesla’s
+then-planned Model X and Model 3 programs, and to further align executive compensation with increases in stockholder value, the Board granted to Mr.
+Musk the 2012 CEO Performance Award, comprised of a stock option award to purchase 26,374,505 shares (as adjusted for the Stock Split) of Tesla’s
+common stock, representing 5% of Tesla’s total issued and outstanding shares at the time of grant. The 2012 CEO Performance Award consists of 10
+equal vesting tranches, each requiring that Tesla meet a combination of (i) the achievement of a specified operational milestone relating to development
+of Model X or Model 3, aggregate vehicle production or a gross margin target, and (ii) a sustained incremental $4 billion increase in Tesla’s market
+capitalization from $3.2 billion, Tesla’s market capitalization at the time of grant. The market capitalization conditions for all of the 10 vesting tranches
+and nine of the 10 operational milestones have been achieved, and therefore nine of 10 tranches under the 2012 CEO Performance Award have vested. As
+of April 29, 2022, only one operational milestone, requiring that Tesla achieve gross margin of 30% or more for four consecutive quarters, has not been
+achieved and remains outstanding.
+Prior to 2018, the only additional equity awards received by Mr. Musk related to certain immaterial awards granted during 2013 pursuant to a
+patent incentive program that was available to our employees generally.
+2018 CEO Performance Award
+Early in 2017, with the 2012 CEO Performance Award heading to substantial completion after having helped Tesla grow its market capitalization
+to over $55 billion in just over five years, the independent members of the Board began preliminary discussions regarding how to continue to incentivize
+Mr. Musk to lead Tesla through the next phase of its development. In January 2018, following more than six months of careful analysis and development
+led by the Compensation Committee, with participation by every independent Board member, the help of Compensia and engagement with and feedback
+from our largest institutional stockholders, the Board granted the 2018 CEO Performance Award to Mr. Musk. Such grant was subject to approval by a
+majority of the total votes of Tesla common stock not owned by Mr. Musk or Kimbal Musk cast at a meeting of the stockholders to approve the 2018 CEO
+Performance Award. On March 21, 2018, such approval was obtained, with approximately 73% of the votes cast by such disinterested shares voting in
+favor of the 2018 CEO Performance Award.
+10
+The 2018 CEO Performance Award is comprised of a 10-year maximum term stock option to purchase 101,320,210 shares (as adjusted for the
+Stock Split) of Tesla’s common stock, divided equally among 12 separate tranches that were each equivalent to 1% of the issued and outstanding shares
+of Tesla’s common stock at the time of grant, at an exercise price of $70.01 per share (as adjusted for the Stock Split). Each of the 12 vesting tranches of
+the 2018 CEO Performance Award vests upon certification by the Board that both (i) the market capitalization milestone for such tranche, which begins at
+$100 billion for the first tranche and increases by increments of $50 billion thereafter, and (ii) any one of the following 8 operational milestones focused
+on revenue or 8 operational milestones focused on profitability, has been met:
+Total Revenue* Adjusted EBITDA**
+(in billions) (in billions)
+$20.0 $1.5
+$35.0 $3.0
+$55.0 $4.5
+$75.0 $6.0
+$100.0 $8.0
+$125.0 $10.0
+$150.0 $12.0
+$175.0 $14.0
+* “Revenue” means total revenues as reported in Tesla’s financial statements on Forms 10-Q or 10-K filed with the SEC for the previous four
+consecutive fiscal quarters.
+** “Adjusted EBITDA” means (i) net income (loss) attributable to common stockholders before (ii) interest expense, (iii) (benefit) provision for
+income taxes, (iv) depreciation and amortization, and (v) stock-based compensation, as each such item is reported in Tesla’s financial statements
+on Forms 10-Q or 10-K filed with the SEC for the previous four consecutive fiscal quarters.
+Any single operational milestone may only satisfy the vesting requirement of one tranche, together with the corresponding market capitalization
+milestone. Subject to any applicable clawback provisions, policies or other forfeiture terms, once a milestone is achieved, it is forever deemed achieved
+for determining the vesting of a tranche. Meeting more than 12 of the 16 operational milestones will not result in any additional vesting or other
+compensation to Mr. Musk under the 2018 CEO Performance Award. Except in a change in control situation, measurement of the market capitalization
+milestones will be based on both (i) a six calendar month trailing average of Tesla’s stock price as well as (ii) a 30 calendar day trailing average of Tesla’s
+stock price, in each case based on trading days only. Upon the consummation of certain acquisitions or split-up, spin-off or divestiture transactions, each
+then-unachieved market capitalization milestone and/or operational milestone will be adjusted to offset the impact of such transactions to the extent they
+could be considered material to the achievement of those milestones.
+In establishing the Revenue and Adjusted EBITDA milestones, the Board carefully considered a variety of factors, including Tesla’s growth
+trajectory and internal growth plans and the historical performance of other high-growth and high-multiples companies in the technology space that have
+invested in new businesses and tangible assets. These benchmarks provided revenue/EBITDA to market capitalization multiples, which were then used to
+inform the specific operational targets that aligned with Tesla’s plans for future growth. Nevertheless, the Board considered each of the market
+capitalization and operational milestones to be challenging hurdles. For example, in order to meet all 12 market capitalization milestones, Tesla was
+required to add approximately $600 billion to its market capitalization at the time of the grant of the 2018 CEO Performance Award on a sustained basis,
+and in order to satisfy all eight revenue-based operational milestones, Tesla would have to increase revenue by more than $163 billion from its annual
+revenue of approximately $11.8 billion in 2017, the last fiscal year completed prior to the grant of the 2018 CEO Performance Award.
+In addition, Mr. Musk must continue to lead Tesla as our Chief Executive Officer or, alternatively, as our Chief Product Officer and Executive
+Chairman (with any other Chief Executive Officer reporting directly to him), at the time each milestone is met in order for the corresponding tranche to
+vest. With limited exceptions, Mr. Musk must hold any shares that he acquires upon exercise of the 2018 CEO Performance Award for at least five years
+post-exercise. There will be no acceleration of vesting of the 2018 CEO Performance award upon Mr. Musk’s termination, death or disability, or a change
+in control of Tesla. However, in a change in control situation, the achievement of the milestones will be based solely on the market capitalization
+milestones, with the measurement of Tesla’s market capitalization determined by the product of the total number of outstanding shares of Tesla common
+11
+stock immediately before the change in control multiplied by the greater of the last closing price of a share of Tesla common stock before the effective
+time of the change in control or the per share price (plus the per share value of any other consideration) received by Tesla’s stockholders in the change in
+control.
+In the event of a restatement of Tesla’s financial statements previously filed with the SEC, if a lesser portion of the 2018 CEO Performance Award
+would have vested based on the restated financial results, then Tesla will require forfeiture (or repayment, as applicable) of the portion of the 2018 CEO
+Performance Award that would not have vested based on the restated financial results (less any amounts Mr. Musk may have paid to Tesla in exercising
+any forfeited awards). The 2018 CEO Performance Award also will be subject, if more stringent than the foregoing, to any current or future Tesla
+clawback policy applicable to equity awards, provided that the policy does not discriminate solely against Mr. Musk except as required by applicable law.
+As of April 29, 2022, 11 operational milestones and 12 market capitalization milestones have been achieved, of which 11 operational milestones
+and 11 market capitalization milestones have also been certified by our Board of Directors. Consequently, 11 of the 12 tranches under the 2018 CEO
+Performance Award, corresponding to options to purchase an aggregate 92,876,855 shares of Tesla’s common stock, have vested and become
+exercisable, subject to Mr. Musk’s payment of the exercise price of $70.01 per share and the minimum five-year holding period generally applicable to
+any shares he acquires upon exercise.
+Realized Compensation
+For purposes of the table in “Summary Compensation Table” under this Item 11 below, we are required to report pursuant to applicable SEC
+rules any stock option grants to Mr. Musk at values determined as of their respective grant dates and which are driven by certain assumptions prescribed
+by Financial Accounting Board Accounting Standards Codification Topic 718, “Compensation–Stock Compensation” (“ASC Topic 718”). Moreover, we are
+required to report in “Pay Ratio Disclosure” under this Item 11 below (i) Mr. Musk’s annual total compensation, (ii) the median of the annual total
+compensation of all Tesla employees qualifying for this analysis, other than Mr. Musk, in each case calculated pursuant to the methodology used for the
+table under “Summary Compensation Table,” and (iii) the ratio of the former to the latter.
+In addition, we are required to report in “2021 Option Exercises and Stock Vested” under this Item 11 below an amount for the “value realized”
+upon: (i) any exercise by Mr. Musk of a stock option, which is based on the difference between the market price of the underlying shares at the time of
+exercise and the exercise price of the stock option, and (ii) any vesting of a restricted stock unit award, based on the market price of the award at the
+time of vesting. Such amount is required to be reported even if Mr. Musk does not actually receive any cash from such exercise or vesting, either because
+he does not also sell any shares or because he sells only a number of shares sufficient to cover the related tax liabilities resulting from the exercise or
+vesting.
+As a result, there may be a significant disconnect between what is reported as compensation for Mr. Musk in a given year in such sections and the
+value actually realized as compensation in that year or over a period of time. Moreover, the vast majority of compensation in respect of past stock option
+grants to Mr. Musk, including the 2012 CEO Performance Award and the 2018 CEO Performance Award, were structured to be incentives for future
+performance with their value realizable only if Tesla’s stock price appreciated compared to the dates of the grants, and if the Company achieved
+applicable vesting requirements.
+To supplement the disclosures in “Summary Compensation Table,” “Pay Ratio Disclosure” and “2021 Option Exercises and Stock Vested” under
+this Item 11 below, we have included the following table, which shows the total realized compensation of Mr. Musk for the last three fiscal years, as well
+as the ratio of Mr. Musk’s realized compensation to the median of the annual total compensation of all other Tesla employees qualifying for this analysis
+as reported under “Pay Ratio Disclosure.” Realized compensation is not a substitute for reported compensation in evaluating our compensation structure,
+but we believe that realized compensation is an important factor in understanding that the value of compensation that Mr. Musk ultimately realizes is
+dependent on a number of additional factors, including: (i) the vesting of certain of his option awards only upon the successful achievement of a number
+of market capitalization increase and operational milestone targets, including milestones that have not yet been achieved under each of the 2012 CEO
+Performance Award and the 2018 CEO Performance Award; (ii) the fact that Mr. Musk does not receive any cash if he does not actually sell shares and
+thereby reduce his investment in
+12
+us, and he does not receive any cash to the extent that he sells only shares sufficient to cover income taxes with respect to his awards (including stock
+options exercised solely to avoid their expiration in accordance with their terms); and (iii) the then-current market value of our common stock at the times
+at which Mr. Musk may elect to actually sell his shares.
+Ratio of Total CEO
+“Value Realized on Exercise Median Annual Total Realized
+“Total Compensation” of or Vesting of Awards” of Compensation of all Compensation to
+CEO, CEO, as Qualifying Non-CEO Employees, Median Annual
+as Reported in Summary Reported in Option Exercises as reported in Pay Total
+Compensation Table and Stock Vested Table Ratio Disclosure Total CEO Realized Compensation of
+Below Below Section Below Compensation all Qualifying Non-CEO
+Year ($) ($) ($) ($)(1)(2) Employees
+2021 — 23,452,910,177(3) 40,723 734,762,107 18,043:1
+2020 — — 46,150 — 0.00:1
+2019 23,760(4) 30,483,250(5) 58,455 23,760 0.41:1
+(1) “Total CEO realized compensation” for a given year is defined as (i) the amounts reported for Mr. Musk in “Summary Compensation Table” under
+this Item 11 below under the columns “Salary,” “Bonus,” “Non‑Equity Incentive Plan Compensation” and “All Other Compensation,” plus (ii) with
+respect to any stock option exercised by Mr. Musk in such year in connection with which shares of stock were also sold other than to satisfy any
+resulting tax liability, the difference between the market price of such shares at the time of exercise and the applicable exercise price of the
+option, plus (iii) with respect to any restricted stock unit vested by Mr. Musk in such year in connection with which shares of stock were also sold
+other than automatic sales to satisfy any withholding obligations related to such vesting, the market price of such shares at the time of vesting,
+plus (iv) any cash actually received by Mr. Musk in respect of any shares sold to cover tax liabilities as described in (ii) and (iii) above, following
+the payment of such tax liabilities.
+(2) Of the amounts noted, Mr. Musk has not accepted his salary in the amount of $23,760 for 2019.
+(3) Reflects the exercise of vested stock options scheduled to expire in 2022 as to which Mr. Musk paid the exercise price in cash. Of the shares
+received upon exercise, 42.0% were immediately sold in order to pay federal and state tax withholding from the option exercise. None of the
+proceeds from such sales were retained by Mr. Musk. Of the remaining shares, 94.6% were retained by Mr. Musk. The other 5.4% automatically
+were sold as a result of a Rule 10b5-1 trading plan put in place in September 2021.
+(4) Reflects, for 2019, the applicable minimum wage requirements under California law for part of such year. Commencing in May 2019 at Mr.
+Musk’s request, we eliminated altogether the earning and accrual of this base salary.
+(5) Reflects the exercise of a vested stock option award as to which Mr. Musk paid the exercise price in cash. None of the shares received upon
+exercise have been sold, and therefore this amount has not been received by Mr. Musk.
+13
+Tax and Accounting Considerations
+Sections 280G and 409A. We have not provided or committed to provide any executive officer or director with a gross-up or other reimbursement
+for tax amounts the executive might pay pursuant to Section 280G or Section 409A of the Code. Section 280G and related Code sections provide that
+executive officers, directors who hold significant stockholder interests and certain other service providers could be subject to significant additional taxes
+if they receive payments or benefits in connection with a change in control of Tesla that exceeds certain limits, and that we or our successor could lose a
+deduction on the amounts subject to the additional tax. Section 409A also imposes additional significant taxes on the individual in the event that an
+executive officer, director or service provider of certain types receives “deferred compensation” that does not meet the requirements of Section 409A.
+Tax Deduction Limit. Section 162(m) of the Code generally disallows a tax deduction to public corporations for compensation greater than
+$1,000,000 paid in any fiscal year to certain executive officers. However, prior to the enactment of U.S. tax legislation in December 2017 (the “Tax Act”),
+certain types of performance-based compensation were excluded from the $1,000,000 deduction limit if specific requirements were met. Under the Tax
+Act, this exclusion for performance-based compensation is not available with respect to taxable years beginning after December 31, 2017, unless the
+compensation is pursuant to a written binding contract which was in effect on or before November 2, 2017, and which is not modified in any material
+respect on or after such date. Pursuant to the Tax Act, for taxable years beginning after December 31, 2017, Section 162(m) of the Code was expanded to
+cover additional executive officers and other employees, including the chief financial officer, so that the compensation of the chief executive officer and
+chief financial officer (at any time during the fiscal year), the three next most highly compensated executive officers during the taxable year and any other
+individual who was considered a “covered employee” for any prior taxable year that begins after 2016, will be subject to the $1,000,000 deductibility limit
+under Section 162(m) of the Code. Commencing with our 2018 fiscal year, to the extent that the aggregate amount of any covered officer’s salary, bonus,
+any amount realized from certain option exercises and vesting of restricted stock units or other equity awards, and certain other compensation amounts
+that are recognized as taxable income by the officer exceeds $1,000,000, we will not be entitled to a U.S. federal income tax deduction for the amount
+over $1,000,000 in that year, unless the compensation qualifies for the transition relief applicable to certain written binding contracts in effect on or
+before November 2, 2017. The Compensation Committee has not adopted a formal policy regarding tax deductibility of compensation paid to our
+executive officers.
+Accounting Implications. We follow ASC Topic 718 for our stock-based compensation awards. ASC Topic 718 requires companies to measure the
+compensation expense for all stock-based compensation awards made to employees and directors based on the grant date “fair value” of these awards.
+This calculation is performed for accounting purposes and reported in the compensation tables below, even though our named executive officers may
+never realize any value from their awards. ASC Topic 718 also requires companies to recognize the compensation cost of their stock-based compensation
+awards in their income statements over the period that an executive officer is required to render service in exchange for the option or other award.
+Compensation Committee Report
+The Compensation Committee oversees Tesla’s compensation programs, policies and practices. The Compensation Committee has reviewed and
+discussed the Compensation Discussion and Analysis required by Item 402(b) of Regulation S-K with management. Based on such review and discussions,
+the Compensation Committee has recommended to the Board that the Compensation Discussion and Analysis be included in this Amendment.
+Respectfully submitted by the members of the Compensation Committee of the Board
+Ira Ehrenpreis (Chair)
+Robyn Denholm
+Kathleen Wilson-Thompson
+14
+Summary Compensation Table
+The following table presents information concerning the total compensation of our named executive officers for each of the last three fiscal years.
+No disclosure is provided for fiscal years for which those persons were not named executive officers.
+Non-Equity
+Option Incentive Plan All Other
+Salary Bonus Stock Awards Awards Compensation Compensation Total
+Name and Principal Position Year ($) ($) ($)(1) ($)(2) ($) ($) ($)
+Elon Musk 2021 — — — — — —
+Technoking of Tesla and Chief 2020 — — — — — —
+Executive Officer 2019 23,760(3) — — — — — 23,760
+Zachary Kirkhorn 2021 301,154 — — — —— — 301,154
+Master of Coin and Chief 2020 269,663(4) — — 46,261,354 — 31,099(5) 46,562,116
+Financial Officer
+2019 276,058 — 5,019,998 15,947,901 — — 21,243,957
+Andrew Baglino 2021 301,154 — — — —— — 301,154
+SVP, Powertrain and Energy 2020 283,269(4) — — 46,261,354 — — 46,544,623
+Engineering 2019 301,154 — — 4,779,080 — — 5,080,234
+Jerome Guillen(6) 2021 161,538 — — — — — 161,538
+Former President, Tesla Heavy 2020 283,269(4) — — 46,261,354 — — 46,544,623
+Trucking
+2019 301,154 — — 7,965,058 — — 8,266,212
+(1) This column reflects the grant date fair value computed in accordance with ASC Topic 718 of the restricted stock unit awards granted to the
+named executive officers, which is measured on the grant date based on the closing fair market value of our common stock. These amounts do not
+necessarily correspond to the actual value that may be recognized by the named executive officers, which depends, among other things, on the
+market value of our common stock.
+(2) This column reflects the aggregate grant date fair value computed in accordance with ASC Topic 718 of the options to purchase shares of our
+common stock granted to the named executive officers. The assumptions used in the valuation of these awards are set forth in Note 13, Equity
+Incentive Plans, to the consolidated financial statements included in the Original Form 10-K. These amounts do not necessarily correspond to the
+actual value that may be recognized by the named executive officers, which depends, among other things, on the market value of our common
+stock appreciating from that on the grant date(s) of the option(s).
+(3) Reflects the applicable minimum wage requirements under California law for part of 2019. Commencing in May 2019 at Mr. Musk’s request, we
+eliminated altogether the earning and accrual of this base salary.
+(4) Reflects a temporary reduction to base salary in response to global market conditions.
+(5) Reflects an amount corresponding to previously-accrued paid time off that was applied toward the purchase of a Tesla vehicle pursuant to a
+company-wide program.
+(6) Mr. Guillen departed Tesla in June 2021.
+15
+Pay Ratio Disclosure
+Tesla is committed to fair and competitive compensation for our employees. Moreover, Elon Musk, the Technoking of Tesla and our Chief
+Executive Officer, has agreed to a compensation arrangement in the 2018 CEO Performance Award that is substantially tied to the appreciation of our
+market capitalization. Because equity awards are generally made available to Tesla employees, this also means that Mr. Musk’s compensation is tied to
+the success of Tesla employees. We are providing a ratio of (i) Mr. Musk’s 2021 annual total compensation to (ii) the median of the 2021 annual total
+compensation of all applicable qualifying Tesla employees other than Mr. Musk, as if all such employees were named executive officers, in each case
+calculated pursuant to the disclosure requirements of “Summary Compensation Table” above. As we continue our international expansion, the median
+annual total compensation of our employees reflects differences in local compensation scales and practices abroad to a greater extent.
+Mr. Musk’s 2021 annual total compensation, as reported under “Summary Compensation Table,” was $0, and the median 2021 annual total
+compensation of all other qualifying employees, as determined pursuant to the methodology set forth below, was $40,723. Consequently, the applicable
+ratio of such amounts for 2021 was 0.00:1.
+Our methodology for identifying the median of the 2021 annual total compensation for each individual other than Mr. Musk was as follows:
+• We determined that as of December 31, 2021, Tesla and all our subsidiaries had 100,121 individuals qualifying for this analysis (full-time,
+part-time and temporary employees other than Mr. Musk, subject to the following bullet), of which approximately 42% were based outside
+of the U.S. and approximately 39% were production line employees.
+• We did not include in the population of qualifying individuals any employees of staffing agencies whose compensation is determined by
+such agencies.
+• We applied the requirements and assumptions required for the table under “Summary Compensation Table” above for each of such
+individuals as if he or she was a named executive officer to calculate the total annual compensation, including base salary or wages,
+performance-based commission payments, and equity awards based on their grant date fair values.
+• We converted any payment earned or paid in a foreign currency to U.S. dollar using the average of the prevailing conversion rates for the
+month of December 2021.
+• We selected the median of all total annual compensation amounts calculated in accordance with the foregoing.
+16
+Grants of Plan-Based Awards in 2021
+The following table presents information concerning each grant of an award made to a named executive officer in fiscal 2021 under any plan.
+All Other Exercise
+Option or
+Awards: Base
+Number of Price of Grant Date Fair
+Grant Securities Underlying Option Awards Value of Stock and Option
+Name Date(1) Options(#) ($/Sh) Awards ($)
+Elon Musk — — — —
+Zachary J. Kirkhorn — — — —
+Andrew Baglino — — — —
+Jerome Guillen(1) — — — —
+(1) Mr. Guillen departed Tesla in June 2021.
+Outstanding Equity Awards at 2021 Fiscal Year-End
+The following table presents information concerning unexercised options and unvested restricted stock unit awards for each named executive
+officer outstanding as of the end of fiscal 2021.
+Option Awards Stock Awards
+Equity
+Incentive
+Plan
+Awards: Number of Market
+Number of Number of Number of Shares or Value of
+Securities Securities Securities Units of Shares or
+Underlying Underlying Underlying Stock That Units of Stock
+Unexercised Unexercised Unexercised Option Option Have Not That Have
+Options (#) Options (#) Unearned Exercise Expiration Vested Not Vested
+Name Grant Date Exercisable Unexercisable Options (#) Price ($) Date (#) ($)(1)
+Elon Musk 3/21/2018(2) 59,103,455 42,216,755 — 70.01 1/19/2028 — —
+6/10/2013(3) 1,750 — — 20.01 6/10/2023 — —
+4/8/2013(3) 1,750 — — 8.37 4/8/2023 — —
+8/13/2012(4) — 2,637,455 — 6.24 8/13/2022 — —
+Zachary J. Kirkhorn 10/19/2020(5) 55,645 149,814 — 430.83 10/19/2030 — —
+4/19/2019(6) 445,530 202,515 — 54.66 4/19/2029 — —
+4/19/2019(7) — — — — — 27,000 28,533,060
+1/22/2019(8) 32,656 21,774 — 59.79 1/22/2029 — —
+1/22/2019(9) — — — — — 7,260 7,672,223
+10/16/2018(10) 4,858 4,867 — 55.32 10/16/2028 — —
+10/16/2018(9) — — — — — 1,726 1,824,002
+Andrew Baglino 10/19/2020(5) 55,645 149,814 — 430.83 10/19/2030 — —
+7/19/2019(11) 81,176 105,954 — 51.64 7/19/2029 — —
+10/16/2018(10) 32,741 18,959 — 55.32 10/16/2028 — —
+10/16/2018(9) — — — — — 6,895 7,286,498
+3/19/2018(12) 48,046 18,454 — 62.72 3/19/2028 — —
+2/20/2018(13) — — — — — 924 976,465
+11/10/2014(14) — 12,500 — 48.39 11/10/2024 — —
+Jerome Guillen(15) — — — — — — —
+(1) The market value of unvested restricted stock units is calculated by multiplying the number of unvested restricted stock units held by the
+applicable named executive officer by the closing price of our common stock on December 31, 2021, which was $1,056.78.
+(2) 1/12th of the total number of shares subject to the option becomes vested and exercisable each time: (i) our market capitalization increases
+initially to $100.0 billion for the first tranche, and by an additional $50.0 billion for each tranche thereafter; and (ii) one of 16 specified
+operational milestones relating to total revenue or adjusted EBITDA (other than any operating milestone that previously counted towards the
+vesting of another tranche) is attained, subject to Mr. Musk’s continued service to us as either CEO or as both Executive Chairman and Chief
+Product Officer, with the CEO reporting to him, at each such vesting event. See “Compensation Discussion and Analysis—Chief Executive Officer
+Compensation—2018 CEO Performance Award” under this Item 11 above.
+(3) Stock option awards granted as part of our company-wide patent incentive program. The total number of shares subject to the option was vested
+and exercisable on the applicable grant date of the option.
+17
+(4) 1/10th of the total number of shares subject to the option became and will become vested and exercisable each time: (i) our market capitalization
+increases by $4.0 billion above the initially measured market capitalization of $3.2 billion; and (ii) one of 10 specified performance milestones
+relating to the development of our Model X and Model 3 vehicles and our total production of vehicles is attained, subject to Mr. Musk’s continued
+service to us at each such vesting event. If any shares have not vested by the end of the term of the option, they will be forfeited and Mr. Musk
+will not realize the value of such shares. As of April 29, 2021, 10 market capitalization milestones and nine performance milestones have been
+achieved. See “Compensation Discussion and Analysis—Chief Executive Officer Compensation—Historical Equity Compensation” under this Item
+11 above.
+(5) 1/48th of the shares subject to the option became vested and exercisable on December 5, 2020, and 1/48th of the shares subject to the option
+become vested and exercisable every month thereafter, subject to the grantee’s continued service to us on each such vesting date.
+(6) 1/8th of the shares subject to the option became vested and exercisable on September 13, 2019, and 1/48th of the shares subject to the option
+become vested and exercisable each month thereafter, subject to the grantee’s continued service to us on each such vesting date.
+(7) 1/8th of this award became vested on December 5, 2019, and 1/16th of this award becomes vested every three months thereafter, subject to the
+grantee’s continued service to us on each such vesting date.
+(8) 1/60th of the shares subject to the option became vested and exercisable on January 5, 2019, and 1/60th of the shares subject to the option
+become vested and exercisable each month thereafter, subject to the grantee’s continued service to us on each such vesting date.
+(9) 1/20th of this award vested on March 5, 2019, and 1/20th of this award vests every three months thereafter, subject to the grantee’s continued
+service to us on each such vesting date.
+(10) 1/60th of the shares subject to the option became vested and exercisable on November 1, 2018, and 1/60th of the shares subject to the option
+become vested and exercisable each month thereafter, subject to the grantee’s continued service to us on each such vesting date.
+(11) 1/60th of the shares subject to the option became vested and exercisable on July 24, 2019, and 1/60th of the shares subject to the option become
+vested and exercisable each month thereafter, subject to the grantee’s continued service to us on each such vesting date.
+(12) 1/60th of this award vested on March 27, 2018, and 1/60th of this award vests every three months thereafter, subject to the grantee’s continued
+service to us on each such vesting date.
+(13) 1/16th of this award vested on June 5, 2018, and 1/16th of this award vests every three months thereafter, subject to the grantee’s continued
+service to us on each such vesting date.
+(14) 1/4th of the shares subject to the option became vested and exercisable upon each of the following, as determined by the Board: (i) the completion
+of the first Model X production vehicle; (ii) aggregate vehicle production of 100,000 vehicles in a trailing 12-month period and (iii) completion of
+the first Model 3 production vehicle. 1/4th of the shares subject to this option will become vested and exercisable upon the determination by the
+Board that annualized gross margin of greater than 30% in any three years is achieved, subject to the grantee’s continued service to us on each
+such vesting date.
+(15) Mr. Guillen departed Tesla in June 2021.
+2021 Option Exercises and Stock Vested
+The following table presents information concerning each exercise of stock options and vesting of stock awards during fiscal 2021 for each of the
+named executive officers.
+Option Awards Stock Awards
+Number of Shares Value Realized on Number of Shares Value Realized on
+Acquired on Exercise Exercise Acquired on Vesting Vesting
+Name (#) ($)(1) (#) ($)(2)
+Elon Musk 22,862,050 $23,452,910,176 — —
+Zachary Kirkhorn 3,200 3,204,672 24,149 17,597,044
+Andrew Baglino 27,500 20,060,191 7,141 5,258,669
+Jerome Guillen(3) 50,000 33,996,790 1,211 724,117
+18
+(1) Reflects the product of the number of shares of stock subject to the exercised option multiplied by the difference between the market price of our
+common stock at the time of exercise on the exercise date and the exercise price of the option.
+(2) Reflects the product of the number of shares of stock vested multiplied by the market price of our common stock on the vesting date.
+(3) Mr. Guillen departed Tesla in June 2021.
+Potential Payments Upon Termination or Change in Control
+We do not have an employment agreement for any specific term with any of our named executive officers. Moreover, we do not have any contract,
+agreement, plan or arrangement that would result in payments to a named executive officer at, following, or in connection with any termination of
+employment, including resignation, severance, retirement or a constructive termination of employment of a named executive officer, or a change in
+control of Tesla (other than the vesting of the 2018 CEO Performance Award based solely upon the achievement of market capitalization milestones as
+measured at the time of a change in control of Tesla, which by its nature cannot be estimated at this time) or a change in the named executive officer’s
+responsibilities. See also “Compensation Discussion and Analysis—Chief Executive Officer Compensation—2018 CEO Performance Award” under this
+Item 11 above.
+Employee Compensation Risks
+The Compensation Committee oversees management of risks relating to Tesla’s compensation plans and programs. Tesla’s management and the
+Compensation Committee have assessed the risks associated with Tesla’s compensation policies and practices for all employees, including non-executive
+officers. These include risks relating to setting ambitious targets for our employees’ compensation or the vesting of their equity awards and our emphasis
+on at-risk equity-based compensation, and the potential impact of such practices on the retention or decision-making of our employees, particularly our
+senior management. Based on the results of this assessment, Tesla does not believe that its compensation policies and practices for all employees,
+including non-executive officers, create risks that are reasonably likely to have a material adverse effect on Tesla.
+Compensation of Directors
+2021 Director Compensation Table
+The following table provides information concerning the compensation paid by us to each of our non-employee directors who served during any
+part of fiscal year 2021. Elon Musk, who is a named executive officer, does not receive additional compensation for his services as a director.
+The awards with respect to which values are provided under the column “Option Awards” below are exclusively stock options, which have
+realizable value only if they vest over time and to the extent, if any, that our stock price exceeds the applicable exercise prices. The values provided below
+for these awards are based on applicable accounting standards, and do not necessarily reflect the actual amounts realized or realizable pursuant to the
+underlying stock options.
+Fees Earned or
+Paid in Cash Option Awards All Other Total
+Name ($)(1) ($)(2)(3) Compensation ($)
+Robyn Denholm — — — —
+Ira Ehrenpreis — — — —
+Lawrence J. Ellison — — — —
+Antonio Gracias(4) — — — —
+Hiromichi Mizuno 27,500 — 10,949(5) 38,449
+James Murdoch — — — —
+Kimbal Musk — — — —
+Kathleen Wilson-Thompson — — — —
+(1) Reflects cash compensation for service on the Board and/or its applicable committees pursuant to Tesla’s outside director compensation policy
+(the “Director Compensation Policy”) and/or for service as Chair of the Board as previously approved by the Board, as applicable. The earning and
+payment of cash retainer payments
+19
+payable to outside directors may be waived in whole or part at the election of the director. Beginning in 2021, seven of the outside directors
+requested that the Company eliminate the future payment of all of their cash retainer amounts for service on the Board unless the director
+notified otherwise.
+(2) As of December 31, 2021, the aggregate number of shares underlying option awards outstanding for each of our non-employee directors with
+such awards was:
+Aggregate Number of
+Shares Underlying
+Name Options Outstanding
+Robyn Denholm 654,160
+Ira Ehrenpreis 370,000
+Lawrence J. Ellison 291,670
+Hiromichi Mizuno 117,230
+James Murdoch 433,340
+Kimbal Musk 172,250
+Kathleen Wilson-Thompson 290,285
+(3) Reflects stock option grants for service on the Board or as members or chairs of Board committees that were automatically granted pursuant to
+the Director Compensation Policy. In June 2021, the Board unanimously adopted a resolution to forego any automatic grants of annual stock
+option awards under the Director Compensation Policy or otherwise previously approved by the Board until July 2022 unless the Board earlier
+acts to amend the Director Compensation Policy or otherwise amends such resolution.
+(4) Board term ended in October 2021 without standing for re-election at the 2021 annual meeting of stockholders.
+(5) Consists of reimbursements for out-of-pocket travel expenses incurred in connection with Board service.
+Non-Employee Director Compensation Arrangements
+Overview and Philosophy
+The compensation program for Tesla’s non-employee directors is designed to be consistent with our compensation philosophy for our employees,
+with an emphasis on equity-based compensation over cash in order to align the value of their compensation with the market value of our stock, and
+consequently, with the long-term interests of our stockholders. Moreover, while we offer to our general employee population restricted stock units that
+will retain some value even if the market value of our stock decreases, the equity-based compensation to our directors has been exclusively in the form of
+stock options, which have zero initial value and accumulate value, if at all, only to the extent that our stock price increases following their grant, through
+the applicable vesting dates and until such stock options are ultimately exercised and the underlying shares are sold. The remaining portion of our
+directors’ compensation has been comprised of cash retainer payments that are relatively modest compared to peer companies and that may be waived at
+the election of each director. Consequently, a large portion and in some cases, the entirety, of each of our non-employee directors’ compensation is
+entirely at risk, and fluctuating stock prices have at times resulted in 100% of the vested stock options then held by each of our non-employee directors
+being out-of-the-money.
+In 2020 and 2021, the Compensation Committee reviewed the Director Compensation Policy with the aid of Compensia and in light of Tesla’s
+exceptional performance and commitment to at-risk director compensation in the form of annual stock option awards to ensure continued alignment of
+the interests of directors with those of Tesla’s stockholders. Following such review, the Compensation Committee recommended that the Board approve a
+resolution that all existing directors forego any automatic grants of annual stock option awards under the Director Compensation Policy or otherwise
+previously approved by the Board until July 2022 unless the Board earlier acts to amend the Director Compensation Policy or otherwise amends such
+resolution. In June 2021, the Board unanimously approved and adopted this resolution. The Compensation Committee intends to make further
+recommendations with respect to the Board’s compensation program for directors, if any, who join the Board after the date of this resolution, as well as
+for future periods of service by existing directors, following further periodic reviews.
+Other Information
+20
+If, following a change in control of Tesla, the service of a non-employee director is terminated, all stock options granted to the director shall fully
+vest and become immediately exercisable.
+Non-employee directors may also have their travel, lodging and related expenses associated with attending Board or Board committee meetings
+reimbursed by Tesla.
+Pledging of Shares
+The ability of our directors and executive officers to pledge Tesla stock for personal loans and investments is inherently related to their
+compensation due to our use of equity awards and promotion of long-termism and an ownership culture. Moreover, providing these individuals flexibility
+in financial planning without having to rely on the sale of shares aligns their interests with those of our stockholders.
+In order to mitigate the risk of forced sales of pledged shares, the Board has a policy that limits pledging of Tesla stock by our directors and
+executive officers. Pursuant to this policy, directors and executive officers may pledge their stock (exclusive of options, warrants, restricted stock units or
+other rights to purchase stock) as collateral for loans and investments, provided that the maximum aggregate loan or investment amount collateralized by
+such pledged stock does not exceed twenty-five percent (25%) of the total value of the pledged stock.
+Example: A director pledges 1,000 shares as collateral for a loan, and the current stock price is $800 per share. The director may
+borrow up to 25% of 1,000 x $800, or $200,000, against such shares. If the stock price later increases to $1,600 per share, the
+director may borrow up to an additional $200,000 against the pledged shares. If the director borrows the full allowable amount of
+$400,000 and the stock price then decreases to $1,200, the director must repay $100,000 to maintain compliance with the 25%
+limit under the pledging policy.
+See “Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters—Ownership of Securities” under Item
+12 below for information regarding any shares pledged by our directors or executive officers as of December 31, 2021; however, such pledging does not
+indicate the extent to which there may be actual borrowings against such shares as of such date. Tesla management monitors compliance with this policy
+by reviewing and, if necessary, reporting to the Board or its committees the extent to which any officer or director has pledged shares of Company
+stock. We believe that this monitoring is effective and includes appropriate controls, and we have confirmed that each of our directors and executive
+officers who have pledged stock are and have been compliant with this policy since our last confirmation.
+Compensation Committee Interlocks and Insider Participation
+Robyn Denholm, Ira Ehrenpreis and Kathleen Wilson-Thompson served as members of the Compensation Committee during 2021. None of such
+persons is or was formerly an officer or an employee of Tesla. During 2021, no interlocking relationships existed between any member of Tesla’s Board or
+Compensation Committee and any member of the board of directors or compensation committee of any other company.
+21
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+Equity Compensation Plan Information
+The following table summarizes the number of securities underlying outstanding options, stock awards, warrants and rights granted to employees
+and directors, as well as the number of securities remaining available for future issuance, under Tesla’s equity compensation awards as of December 31,
+2021.
+(a) (b) (c)
+Number of securities
+remaining available for
+Number of securities future issuance under
+to be issued upon Weighted-average equity compensation
+exercise of outstanding exercise price of plans (excluding
+options, warrants and outstanding options, securities reflected in
+rights warrants and rights column (a))
+Plan category (#)(1) ($)(2) (#)
+Equity compensation plans approved by
+security holders 130,375,672 84.46 82,835,318(3)
+Equity compensation plans not approved by
+security holders 102,177(4) 85.62 —
+Total 130,477,849 84.46 82,835,318
+(1) Consists of options to purchase shares of our common stock, including the 2018 CEO Performance Award, and restricted stock unit awards
+representing the right to acquire shares of our common stock.
+(2) The weighted average exercise price is calculated based solely on the outstanding stock options. It does not take into account the shares issuable
+upon vesting of outstanding restricted stock unit awards, which have no exercise price.
+(3) Consists of 49,053,818 shares remaining available for issuance under the Tesla, Inc. 2019 Equity Incentive Plan, and 33,781,500 shares
+remaining available for issuance under the Tesla, Inc, 2019 Employee Stock Purchase Plan.
+(4) Consists of outstanding stock options and restricted stock unit awards that were assumed in connection with acquisitions. No additional awards
+may be granted under the plans pursuant to which such awards were initially granted.
+22
+Ownership of Securities
+The following table sets forth certain information regarding the beneficial ownership of Tesla’s common stock, as of December 31, 2021, for the
+following:
+• each person (or group of affiliated persons) who is known by us to beneficially own 5% of the outstanding shares of our common stock;
+• each of our non-employee directors;
+• each of our current executive officers named in the Summary Compensation Table in Item 11 above; and
+• all current directors and executive officers of Tesla as a group.
+In computing the number of shares of common stock beneficially owned by a person and the percentage ownership of that person, we deemed to
+be outstanding all shares of common stock subject to options or other convertible securities held by that person or entity that are currently exercisable or
+exercisable within 60 days of December 31, 2021. We did not deem these shares outstanding, however, for the purpose of computing the percentage
+ownership of any other person. Applicable percentage ownership is based on 1,033,171,787 shares of Tesla’s common stock outstanding at December 31,
+2021.
+Unless otherwise indicated, all persons named below can be reached at Tesla, Inc., 1 Tesla Road, Austin, Texas 78725.
+Percentage
+Shares of Shares
+Beneficially Beneficially
+Beneficial Owner Name Owned Owned
+5% Stockholders
+Elon Musk(1) 231,715,206 21.2%
+The Vanguard Group(2) 62,448,572 6.0%
+Blackrock, Inc.(3) 52,918,395 5.1%
+Named Executive Officers & Directors
+Elon Musk(1) 231,715,206 21.2%
+Zachary J. Kirkhorn(4) 635,271 *
+Andrew Baglino(5) 257,383 *
+Robyn Denholm(6) 654,159 *
+Ira Ehrenpreis(7) 560,335 *
+Lawrence J. Ellison(8) 15,270,141 1.5%
+Hiromichi Mizuno(9) 117,230 *
+James Murdoch(10) 475,765 *
+Kimbal Musk(11) 683,490 *
+Kathleen Wilson-Thompson(12) 260,139 *
+All current executive officers and directors as a group (10 persons)(13) 250,629,119 22.9%
+* Represents beneficial ownership of less than 1%.
+(1) Includes (i) 172,608,251 shares held of record by the Elon Musk Revocable Trust dated July 22, 2003 and (ii) 59,106,955 shares issuable to Mr.
+Musk upon exercise of options exercisable within 60 days after December 31, 2020. Includes 92,331,125 shares pledged as collateral to secure
+certain personal indebtedness.
+(2) Includes shares beneficially owned by The Vanguard Group, of which The Vanguard Group has shared voting power over 1,388,053 shares, sole
+dispositive power over 59,059,842 shares and shared dispositive power over 3,388,730 shares. The address for The Vanguard Group is 100
+Vanguard Blvd., Malvern, PA 19355. The foregoing information is based solely on Schedule 13G of The Vanguard Group filed on February 10,
+2022, which we do not know or have reason to believe is not complete or accurate and on which we are relying pursuant to applicable SEC
+regulations.
+(3) Includes shares beneficially owned by BlackRock, Inc., of which Blackrock, Inc. has sole voting power over 45,516,860 shares and sole dispositive
+power over 52,918,395 shares. The address for Blackrock, Inc. is 55 East 52nd Street, New York, NY 10055. The foregoing information is based
+solely on Schedule 13G of
+23
+Blackrock, Inc. filed on March 11, 2022, which we do not know or have reason to believe is not complete or accurate and on which we are relying
+pursuant to applicable SEC regulations.
+(4) Includes 576,687 shares issuable upon exercise of options exercisable within 60 days after December 31, 2021.
+(5) Includes 238,134 shares issuable upon exercise of options exercisable within 60 days after December 31, 2021.
+(6) Includes 649,159 shares issuable upon exercise of options exercisable within 60 days after December 31, 2021.
+(7) Includes 370,000 shares issuable upon exercise of options exercisable within 60 days after December 31, 2021.
+(8) Includes 263,891 shares issuable upon exercise of options exercisable within 60 days after December 31, 2021.
+(9) Includes 117,230 shares issuable upon exercise of options exercisable within 60 days after December 31, 2021.
+(10) Includes (i) 52,425 shares held by the Seven Hills Trust and (ii) 423,340 shares issuable upon exercise of options exercisable within 60 days after
+December 31, 2021.
+(11) Includes 172,250 shares issuable upon exercise of options exercisable within 60 days after December 31, 2021. Includes 511,240 shares pledged
+as collateral to secure certain personal indebtedness.
+(12) Includes 258,339 shares issuable upon exercise of options exercisable within 60 days after December 31, 2021.
+(13) Includes 62,175,985 shares issuable upon exercise of options held by our current executive officers and directors within 60 days after December
+31, 2021.
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS AND DIRECTOR INDEPENDENCE
+Review of Related Party Transactions
+In accordance with the charter for the Audit Committee of the Board, our Audit Committee reviews and approves in advance any proposed related
+person transactions.
+For purposes of these procedures, “related person” and “transaction” have the meanings contained in Item 404 of Regulation S-K.
+The individuals and entities that are considered “related persons” include:
+• Directors and executive officers of Tesla;
+• Any person known to be the beneficial owner of five percent or more of Tesla’s common stock (a “5% Stockholder”); and
+• Any immediate family member, as defined in Item 404(a) of Regulation S-K, of a director, executive officer or 5% Stockholder.
+In accordance with our Related Person Transactions Policy and Procedures, the Audit Committee must review and approve all transactions in
+which (i) Tesla or one of its subsidiaries is a participant, (ii) the amount involved exceeds $120,000 and (iii) a related person has a direct or indirect
+material interest, other than transactions available to all Tesla employees generally.
+In assessing a related party transaction brought before it for approval the Audit Committee considers, among other factors it deems appropriate,
+whether the related party transaction is on terms no less favorable than terms generally available to an unaffiliated third-party under the same or similar
+circumstances and the extent of the related person’s interest in the transaction. The Audit Committee may then approve or disapprove the transaction in
+its discretion.
+Any related person transaction will be disclosed in the applicable SEC filing as required by the rules of the SEC.
+24
+Related Party Transactions
+SpaceX
+Elon Musk is the Chief Executive Officer, Chief Technical Officer and a significant stockholder of SpaceX. Kimbal Musk and Antonio Gracias, who
+are or were members of the Board in 2021, are also members of the board of directors of SpaceX. In addition, certain members of the Board, and/or
+investment funds affiliated with them, have made minority investments in SpaceX.
+SpaceX has purchased and may purchase in the future certain vehicle components from Tesla, including with modifications for non-vehicle
+applications. The prices for such components and any associated labor and support, which were negotiated in good faith and were consistent with prices
+offered to other third parties to whom any such components have been sold, were $2.8 million in the aggregate in 2021 and $0.2 million in the aggregate
+in 2022 through March.
+SpaceX purchased solar modules from Tesla for an aggregate $0.04 million in 2021. The prices were negotiated in good faith.
+SpaceX purchased refurbished power supplies and related services from Tesla for an aggregate $0.1 million in 2021. The prices were negotiated
+in good faith.
+Tesla has provided SpaceX certain engineering support and resources from time to time upon the mutual agreement of the parties and at costs
+per hour that were negotiated in good faith. SpaceX incurred an aggregate $0.01 million in 2021 for such support and resources.
+In 2020, Tesla granted to SpaceX a limited non-perpetual license to certain software, as to which Tesla retains all intellectual property rights.
+Such license was renewed in 2022 and will expire no later than 2023. SpaceX incurred an aggregate $0.1 million in 2021 and is expected to incur an
+aggregate $0.03 million in 2022 for the license. The aggregate fees for the license through its expected term were negotiated in good faith.
+In 2022, Tesla purchased back from SpaceX a transformer in exchange for an aggregate $0.05 million in design services which Tesla provided.
+Since April 2016, SpaceX has invoiced Tesla for our use of an aircraft owned and operated by SpaceX at rates determined by Tesla and SpaceX,
+subject to rules of the Federal Aviation Administration governing such arrangements. Tesla incurred $0.5 million in 2021 and has incurred $0.1 million in
+2022 through March.
+Other Transactions
+Tesla periodically does business with certain entities its directors are affiliated with Such transactions are done on terms no less favorable than
+terms generally available to an unaffiliated third-party under the same or similar circumstances.
+In the ordinary course of business, we enter into offer letters with our executive officers. We have also entered into indemnification agreements
+with each of our directors and officers. The indemnification agreements and our certificate of incorporation and bylaws require us to indemnify our
+directors and officers to the fullest extent permitted by Delaware law. In relation to our CEO’s exercise of stock options and sale of common stock from
+the 2012 CEO Performance Award, Tesla withheld the appropriate amount of taxes. However, given the significant amounts involved, our CEO entered
+into an indemnification agreement with us in November 2021 to indemnify the Company for additional taxes owed, if any.
+25
+Director Independence
+The Board periodically assesses, with the recommendation of the Nominating and Corporate Governance Committee, the independence of its non-
+employee members as defined in the listing standards of NASDAQ and applicable laws. The Board undertook an analysis for each non-employee director
+and considered all relevant facts and circumstances, including the director’s other commercial, accounting, legal, banking, consulting, charitable and
+familial relationships. The Board determined that with respect to each of its current members other than Elon Musk, who is our Chief Executive Officer,
+and Kimbal Musk, who is Elon Musk’s brother, there are no disqualifying factors with respect to director independence enumerated in the listing
+standards of NASDAQ or any relationships that would interfere with the exercise of independent judgment in carrying out the responsibilities of a
+director, and that each such member is an “independent director” as defined in the listing standards of NASDAQ and applicable laws.
+In particular, the Board reviewed the following considerations:
+• Ira Ehrenpreis, Antonio Gracias (prior to his departure from the Board in October 2021), James Murdoch, Elon Musk, Kimbal Musk,
+and/or investment funds affiliated with them, have made minority investments in certain companies or investment funds (i) of which other
+Tesla directors are founders, significant stockholders, directors, officers, or managers, and/or (ii) with which Tesla has had certain
+relationships, such as those set forth in “Related Party Transactions” under this Item 13 above. The Board concluded that none of these
+investments are material so as to impede the exercise of independent judgment by any of Messrs. Ehrenpreis, Gracias or Mr. Murdoch,
+and that none of them has a direct or indirect interest in any transaction between Tesla and another company such as those set forth in
+“Related Party Transactions” under this Item 13 above.
+• Mr. Gracias is a director of SpaceX, (i) of which Elon Musk and Kimbal Musk are also directors, and (ii) with which Tesla has had certain
+relationships, such as those set forth in “Related Party Transactions—SpaceX” under this Item 13 above. The Board concluded that Mr.
+Gracias is an experienced investment professional who has served on the boards of multiple companies without conflict or impairment of
+independent judgment.
+• Lawrence J. Ellison, and/or entities affiliated with him, have purchased certain Tesla products and services from Tesla. The Board
+concluded that such purchases were negotiated and completed through ordinary course sales processes in good faith on terms generally
+available to similar customers, and would not impair the independent judgment of Mr. Ellison.
+• Mr. Ellison is an officer of a company from which Tesla has purchased business services. The Board concluded that such purchases were
+for standard offerings in the ordinary course of business pursuant to good faith contracting processes in which Mr. Ellison was neither
+involved nor had any material interest.
+• As previously disclosed by Tesla, Elon Musk had previously agreed to provide certain directors’ and officers’ indemnity coverage to us
+from his personal funds, which the Board concluded did not impair the independent judgment of the other members of the Board.
+ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES
+Principal Accounting Fees and Services
+The following table presents fees billed for professional audit services and other services rendered to Tesla by PricewaterhouseCoopers LLP for
+the years ended December 31, 2020 and 2021. The dollar amounts in the table and accompanying footnotes are in thousands.
+2020 2021
+Audit Fees (1) $ 12,965 $ 14,156
+Audit-Related Fees(2) — 184
+Tax Fees (3) 1,456 2,876
+All Other Fees (4) 103 62
+26
+Total $ 14,524 $ 17,278
+(1) Audit Fees consist of fees for professional services rendered for the audit of Tesla’s consolidated financial statements included in Tesla’s Annual
+Report on Form 10-K and for the review of the financial statements included in Tesla’s Quarterly Reports on Form 10-Q, as well as services that
+generally only Tesla’s independent registered public accounting firm can reasonably provide, including statutory audits and services rendered in
+connection with SEC filings. The Audit Fees incurred in 2020 also include fees of $825, relating to services performed in connection with Tesla’s
+securities offerings, including comfort letters, consents and review of documents filed with the SEC and other offering documents.
+(2) Audit-Related Fees in 2021 consisted of fees for professional services for certain agreed upon procedures in conjunction with certain financing
+transactions and other attestation services.
+(3) Tax Fees in 2020 and 2021 consisted of fees related to consultation, tax planning and compliance services.
+(4) Fees for 2020 consisted of fees for a Gigafactory Berlin current state assessment and accounting research software. Other Fees in 2021 consisted
+of fees for accounting research software and the assessment of non-financial metrics and documentation.
+27
+Pre-Approval of Audit and Non-Audit Services
+Tesla’s Audit Committee has adopted a policy for pre-approving audit and non-audit services and associated fees of Tesla’s independent
+registered public accounting firm. Under this policy, the Audit Committee must pre- approve all services and associated fees provided to Tesla by its
+independent registered public accounting firm, with certain de minimis exceptions described in the policy.
+All PricewaterhouseCoopers LLP services and fees in fiscal 2020 and 2021 were pre-approved by the Audit Committee.
+28
+PART IV
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
+1. Financial statements (see Index to Consolidated Financial Statements in Part II, Item 8 of the Original Form 10-K).
+2. All financial statement schedules have been omitted since the required information was not applicable or was not present in amounts sufficient to
+require submission of the schedules, or because the information required is included in the consolidated financial statements or the
+accompanying notes.
+3. The exhibits listed in the following Index to Exhibits are filed or incorporated by reference as part of this report.
+29
+INDEX TO EXHIBITS
+Exhibit Incorporated by Reference Filed
+Number Exhibit Description Form File No. Exhibit Filing Date Herewith
+3.1 Amended and Restated Certificate of Incorporation of 10-K 001-34756 3.1 March 1, 2017
+the Registrant.
+3.2 Certificate of Amendment to the Amended and 10-K 001-34756 3.2 March 1, 2017
+Restated Certificate of Incorporation of the Registrant.
+3.3 Amended and Restated Bylaws of the Registrant. 8-K 001-34756 3.2 February 1, 2017
+4.1 Specimen common stock certificate of the Registrant. 10-K 001-34756 4.1 March 1, 2017
+4.2 Fifth Amended and Restated Investors’ Rights S-1 333-164593 4.2 January 29, 2010
+Agreement, dated as of August 31, 2009, between
+Registrant and certain holders of the Registrant’s
+capital stock named therein.
+4.3 Amendment to Fifth Amended and Restated Investors’ S-1/A 333-164593 4.2A May 27, 2010
+Rights Agreement, dated as of May 20, 2010, between
+Registrant and certain holders of the Registrant’s
+capital stock named therein.
+4.4 Amendment to Fifth Amended and Restated Investors’ S-1/A 333-164593 4.2B May 27, 2010
+Rights Agreement between Registrant, Toyota Motor
+Corporation and certain holders of the Registrant’s
+capital stock named therein.
+4.5 Amendment to Fifth Amended and Restated Investor’s S-1/A 333-164593 4.2C June 15, 2010
+Rights Agreement, dated as of June 14, 2010, between
+Registrant and certain holders of the Registrant’s
+capital stock named therein.
+4.6 Amendment to Fifth Amended and Restated Investor’s 8-K 001-34756 4.1 November 4, 2010
+Rights Agreement, dated as of November 2, 2010,
+between Registrant and certain holders of the
+Registrant’s capital stock named therein.
+4.7 Waiver to Fifth Amended and Restated Investor’s S-1/A 333-174466 4.2E June 2, 2011
+Rights Agreement, dated as of May 22, 2011, between
+Registrant and certain holders of the Registrant’s
+capital stock named therein.
+4.8 Amendment to Fifth Amended and Restated Investor’s 8-K 001-34756 4.1 June 1, 2011
+Rights Agreement, dated as of May 30, 2011, between
+Registrant and certain holders of the Registrant’s
+capital stock named therein.
+30
+Exhibit Incorporated by Reference Filed
+Number Exhibit Description Form File No. Exhibit Filing Date Herewith
+4.9 Sixth Amendment to Fifth Amended and Restated 8-K 001-34756 4.1 May 20, 2013
+Investors’ Rights Agreement, dated as of May 15, 2013
+among the Registrant, the Elon Musk Revocable Trust
+dated July 22, 2003 and certain other holders of the
+capital stock of the Registrant named therein.
+4.10 Waiver to Fifth Amended and Restated Investor’s 8-K 001-34756 4.2 May 20, 2013
+Rights Agreement, dated as of May 14, 2013, between
+the Registrant and certain holders of the capital stock
+of the Registrant named therein.
+4.11 Waiver to Fifth Amended and Restated Investor’s 8-K 001-34756 4.1 August 19, 2015
+Rights Agreement, dated as of August 13, 2015,
+between the Registrant and certain holders of the
+capital stock of the Registrant named therein.
+4.12 Waiver to Fifth Amended and Restated Investors’ 8-K 001-34756 4.1 May 24, 2016
+Rights Agreement, dated as of May 18, 2016, between
+the Registrant and certain holders of the capital stock
+of the Registrant named therein.
+4.13 Waiver to Fifth Amended and Restated Investors’ 8-K 001-34756 4.1 March 17, 2017
+Rights Agreement, dated as of March 15, 2017,
+between the Registrant and certain holders of the
+capital stock of the Registrant named therein.
+4.14 Waiver to Fifth Amended and Restated Investors’ 8-K 001-34756 4.1 May 3, 2019
+Rights Agreement, dated as of May 1, 2019, between
+the Registrant and certain holders of the capital stock
+of the Registrant named therein.
+4.15 Indenture, dated as of May 22, 2013, by and between 8-K 001-34756 4.1 May 22, 2013
+the Registrant and U.S. Bank National Association.
+4.16 Third Supplemental Indenture, dated as of March 5, 8-K 001-34756 4.4 March 5, 2014
+2014, by and between the Registrant and U.S. Bank
+National Association.
+4.17 Form of 1.25% Convertible Senior Note Due March 1, 8-K 001-34756 4.4 March 5, 2014
+2021 (included in Exhibit 4.16).
+4.18 Fourth Supplemental Indenture, dated as of March 22, 8-K 001-34756 4.2 March 22, 2017
+2017, by and between the Registrant and U.S. Bank
+National Association.
+31
+Exhibit Incorporated by Reference Filed
+Number Exhibit Description Form File No. Exhibit Filing Date Herewith
+4.19 Form of 2.375% Convertible Senior Note Due March 8-K 001-34756 4.2 March 22, 2017
+15, 2022 (included in Exhibit 4.18).
+4.20 Fifth Supplemental Indenture, dated as of May 7, 8-K 001-34756 4.2 May 8, 2019
+2019, by and between Registrant and U.S. Bank
+National Association, related to 2.00% Convertible
+Senior Notes due May 15, 2024.
+4.21 Form of 2.00% Convertible Senior Notes due May 15, 8-K 001-34756 4.2 May 8, 2019
+2024 (included in Exhibit 4.20).
+4.22 Indenture, dated as of August 18, 2017, by and among 8-K 001-34756 4.1 August 23, 2017
+the Registrant, SolarCity, and U.S. Bank National
+Association, as trustee.
+4.23 Form of 5.30% Senior Note due August 15, 2025. 8-K 001-34756 4.2 August 23, 2017
+4.24 Indenture, dated as of October 15, 2014, between S-3ASR(1) 333-199321 4.1 October 15, 2014
+SolarCity and U.S. Bank National Association, as
+trustee.
+4.25 Eighth Supplemental Indenture, dated as of January 8-K(1) 001-35758 4.5 January 29, 2015
+29, 2015, by and between SolarCity and the Trustee,
+related to SolarCity’s 4.00% Solar Bonds, Series
+2015/4-7.
+4.26 Tenth Supplemental Indenture, dated as of March 9, 8-K(1) 001-35758 4.3 March 9, 2015
+2015, by and between SolarCity and the Trustee,
+related to SolarCity’s 5.00% Solar Bonds, Series
+2015/6-10.
+4.27 Eleventh Supplemental Indenture, dated as of March 8-K(1) 001-35758 4.4 March 9, 2015
+9, 2015, by and between SolarCity and the Trustee,
+related to SolarCity’s 5.75% Solar Bonds, Series
+2015/7-15.
+4.28 Fifteenth Supplemental Indenture, dated as of March 8-K(1) 001-35758 4.5 March 19, 2015
+19, 2015, by and between SolarCity and the Trustee,
+related to SolarCity’s 4.70% Solar Bonds, Series
+2015/C4-10.
+32
+Exhibit Incorporated by Reference Filed
+Number Exhibit Description Form File No. Exhibit Filing Date Herewith
+4.29 Sixteenth Supplemental Indenture, dated as of March 8-K(1) 001-35758 4.6 March 19, 2015
+19, 2015, by and between SolarCity and the Trustee,
+related to SolarCity’s 5.45% Solar Bonds, Series
+2015/C5-15.
+4.30 Twentieth Supplemental Indenture, dated as of March 8-K(1) 001-35758 4.5 March 26, 2015
+26, 2015, by and between SolarCity and the Trustee,
+related to SolarCity’s 4.70% Solar Bonds, Series
+2015/C9-10.
+4.31 Twenty-First Supplemental Indenture, dated as of 8-K(1) 001-35758 4.6 March 26, 2015
+March 26, 2015, by and between SolarCity and the
+Trustee, related to SolarCity’s 5.45% Solar Bonds,
+Series 2015/C10-15.
+4.32 Twenty-Sixth Supplemental Indenture, dated as of 8-K(1) 001-35758 4.5 April 2, 2015
+April 2, 2015, by and between SolarCity and the
+Trustee, related to SolarCity’s 4.70% Solar Bonds,
+Series 2015/C14-10.
+4.33 Thirtieth Supplemental Indenture, dated as of April 9, 8-K(1) 001-35758 4.5 April 9, 2015
+2015, by and between SolarCity and the Trustee,
+related to SolarCity’s 4.70% Solar Bonds, Series
+2015/C19-10.
+4.34 Thirty-First Supplemental Indenture, dated as of April 8-K(1) 001-35758 4.6 April 9, 2015
+9, 2015, by and between SolarCity and the Trustee,
+related to SolarCity’s 5.45% Solar Bonds, Series
+2015/C20-15.
+4.35 Thirty-Fifth Supplemental Indenture, dated as of April 8-K(1) 001-35758 4.5 April 14, 2015
+14, 2015, by and between SolarCity and the Trustee,
+related to SolarCity’s 4.70% Solar Bonds, Series
+2015/C24-10.
+4.36 Thirty-Sixth Supplemental Indenture, dated as of April 8-K(1) 001-35758 4.6 April 14, 2015
+14, 2015, by and between SolarCity and the Trustee,
+related to SolarCity’s 5.45% Solar Bonds, Series
+2015/C25-15.
+4.37 Thirty-Eighth Supplemental Indenture, dated as of 8-K(1) 001-35758 4.3 April 21, 2015
+April 21, 2015, by and between SolarCity and the
+Trustee, related to SolarCity’s 4.70% Solar Bonds,
+Series 2015/C27-10.
+33
+Exhibit Incorporated by Reference Filed
+Number Exhibit Description Form File No. Exhibit Filing Date Herewith
+4.38 Thirty-Ninth Supplemental Indenture, dated as of April 8-K(1) 001-35758 4.4 April 21, 2015
+21, 2015, by and between SolarCity and the Trustee,
+related to SolarCity’s 5.45% Solar Bonds, Series
+2015/C28-15.
+4.39 Forty-Third Supplemental Indenture, dated as of April 8-K(1) 001-35758 4.5 April 27, 2015
+27, 2015, by and between SolarCity and the Trustee,
+related to SolarCity’s 4.70% Solar Bonds, Series
+2015/C32-10.
+4.40 Forty-Fourth Supplemental Indenture, dated as of 8-K(1) 001-35758 4.6 April 27, 2015
+April 27, 2015, by and between SolarCity and the
+Trustee, related to SolarCity’s 5.45% Solar Bonds,
+Series 2015/C33-15.
+4.41 Forty-Eighth Supplemental Indenture, dated as of May 8-K(1) 001-35758 4.5 May 1, 2015
+1, 2015, by and between SolarCity and the Trustee,
+related to SolarCity’s 5.00% Solar Bonds, Series
+2015/12-10.
+4.42 Forty-Ninth Supplemental Indenture, dated as of May 8-K(1) 001-35758 4.6 May 1, 2015
+1, 2015, by and between SolarCity and the Trustee,
+related to SolarCity’s 5.75% Solar Bonds, Series
+2015/13-15.
+4.43 Fifty-Second Supplemental Indenture, dated as of May 8-K(1) 001-35758 4.4 May 11, 2015
+11, 2015, by and between SolarCity and the Trustee,
+related to SolarCity’s 4.70% Solar Bonds, Series
+2015/C36-10.
+4.44 Fifty-Third Supplemental Indenture, dated as of May 8-K(1) 001-35758 4.5 May 11, 2015
+11, 2015, by and between SolarCity and the Trustee,
+related to SolarCity’s 5.45% Solar Bonds, Series
+2015/C37-15.
+4.45 Fifty-Seventh Supplemental Indenture, dated as of 8-K(1) 001-35758 4.4 May 18, 2015
+May 18, 2015, by and between SolarCity and the
+Trustee, related to SolarCity’s 4.70% Solar Bonds,
+Series 2015/C40-10.
+4.46 Fifty-Eighth Supplemental Indenture, dated as of May 8-K(1) 001-35758 4.5 May 18, 2015
+18, 2015, by and between SolarCity and the Trustee,
+related to SolarCity’s 5.45% Solar Bonds, Series
+2015/C41-15.
+34
+Exhibit Incorporated by Reference Filed
+Number Exhibit Description Form File No. Exhibit Filing Date Herewith
+4.47 Sixty-First Supplemental Indenture, dated as of May 8-K(1) 001-35758 4.4 May 26, 2015
+26, 2015, by and between SolarCity and the Trustee,
+related to SolarCity’s 4.70% Solar Bonds, Series
+2015/C44-10.
+4.48 Sixty-Second Supplemental Indenture, dated as of May 8-K(1) 001-35758 4.5 May 26, 2015
+26, 2015, by and between SolarCity and the Trustee,
+related to SolarCity’s 5.45% Solar Bonds, Series
+2015/C45-15.
+4.49 Seventieth Supplemental Indenture, dated as of June 8-K(1) 001-35758 4.4 June 16, 2015
+16, 2015, by and between SolarCity and the Trustee,
+related to SolarCity’s 4.70% Solar Bonds, Series
+2015/C52-10.
+4.50 Seventy-First Supplemental Indenture, dated as of 8-K(1) 001-35758 4.5 June 16, 2015
+June 16, 2015, by and between SolarCity and the
+Trustee, related to SolarCity’s 5.45% Solar Bonds,
+Series 2015/C53-15.
+4.51 Seventy-Fourth Supplemental Indenture, dated as of 8-K(1) 001-35758 4.4 June 23, 2015
+June 22, 2015, by and between SolarCity and the
+Trustee, related to SolarCity’s 4.70% Solar Bonds,
+Series 2015/C56-10.
+4.52 Seventy-Fifth Supplemental Indenture, dated as of 8-K(1) 001-35758 4.5 June 23, 2015
+June 22, 2015, by and between SolarCity and the
+Trustee, related to SolarCity’s 5.45% Solar Bonds,
+Series 2015/C57-15.
+4.53 Eightieth Supplemental Indenture, dated as of June 8-K(1) 001-35758 4.5 June 29, 2015
+29, 2015, by and between SolarCity and the Trustee,
+related to SolarCity’s 4.70% Solar Bonds, Series
+2015/C61-10.
+4.54 Eighty-First Supplemental Indenture, dated as of June 8-K(1) 001-35758 4.6 June 29, 2015
+29, 2015, by and between SolarCity and the Trustee,
+related to SolarCity’s 5.45% Solar Bonds, Series
+2015/C62-15.
+4.55 Ninetieth Supplemental Indenture, dated as of July 20, 8-K(1) 001-35758 4.5 July 21, 2015
+2015, by and between SolarCity and the Trustee,
+related to SolarCity’s 4.70% Solar Bonds, Series
+2015/C71-10.
+35
+Exhibit Incorporated by Reference Filed
+Number Exhibit Description Form File No. Exhibit Filing Date Herewith
+4.56 Ninety-First Supplemental Indenture, dated as of July 8-K(1) 001-35758 4.6 July 21, 2015
+20, 2015, by and between SolarCity and the Trustee,
+related to SolarCity’s 5.45% Solar Bonds, Series
+2015/C72-15.
+4.57 Ninety-Fifth Supplemental Indenture, dated as of July 8-K(1) 001-35758 4.5 July 31, 2015
+31, 2015, by and between SolarCity and the Trustee,
+related to SolarCity’s 5.00% Solar Bonds, Series
+2015/20-10.
+4.58 Ninety-Sixth Supplemental Indenture, dated as of July 8-K(1) 001-35758 4.6 July 31, 2015
+31, 2015, by and between SolarCity and the Trustee,
+related to SolarCity’s 5.75% Solar Bonds, Series
+2015/21-15.
+4.59 One Hundred-and-Fifth Supplemental Indenture, dated 8-K(1) 001-35758 4.5 August 10, 2015
+as of August 10, 2015, by and between SolarCity and
+the Trustee, related to SolarCity’s 4.70% Solar Bonds,
+Series 2015/C81-10.
+4.60 One Hundred-and-Eleventh Supplemental Indenture, 8-K(1) 001-35758 4.6 August 17, 2015
+dated as of August 17, 2015, by and between SolarCity
+and the Trustee, related to SolarCity’s 5.45% Solar
+Bonds, Series 2015/C87-15.
+4.61 One Hundred-and-Sixteenth Supplemental Indenture, 8-K(1) 001-35758 4.6 August 24, 2015
+dated as of August 24, 2015, by and between SolarCity
+and the Trustee, related to SolarCity’s 5.45% Solar
+Bonds, Series 2015/C92-15.
+4.62 One Hundred-and-Twenty-First Supplemental 8-K(1) 001-35758 4.6 August 31, 2015
+Indenture, dated as of August 31, 2015, by and
+between SolarCity and the Trustee, related to
+SolarCity’s 5.45% Solar Bonds, Series 2015/C97-15.
+4.63 One Hundred-and-Twenty-Eighth Supplemental 8-K(1) 001-35758 4.5 September 15, 2015
+Indenture, dated as of September 14, 2015, by and
+between SolarCity and the Trustee, related to
+SolarCity’s 4.70% Solar Bonds, Series 2015/C101-10.
+36
+Exhibit Incorporated by Reference Filed
+Number Exhibit Description Form File No. Exhibit Filing Date Herewith
+4.64 One Hundred-and-Twenty-Ninth Supplemental 8-K(1) 001-35758 4.6 September 15, 2015
+Indenture, dated as of September 14, 2015, by and
+between SolarCity and the Trustee, related to
+SolarCity’s 5.45% Solar Bonds, Series 2015/C102-15.
+4.65 One Hundred-and-Thirty-Third Supplemental 8-K(1) 001-35758 4.5 September 29, 2015
+Indenture, dated as of September 28, 2015, by and
+between SolarCity and the Trustee, related to
+SolarCity’s 4.70% Solar Bonds, Series 2015/C106-10.
+4.66 One Hundred-and-Thirty-Fourth Supplemental 8-K(1) 001-35758 4.6 September 29, 2015
+Indenture, dated as of September 28, 2015, by and
+between SolarCity and the Trustee, related to
+SolarCity’s 5.45% Solar Bonds, Series 2015/C107-15.
+4.67 One Hundred-and-Thirty-Eighth Supplemental 8-K(1) 001-35758 4.5 October 13, 2015
+Indenture, dated as of October 13, 2015, by and
+between SolarCity and the Trustee, related to
+SolarCity’s 4.70% Solar Bonds, Series 2015/C111-10.
+4.68 One Hundred-and-Forty-Third Supplemental 8-K(1) 001-35758 4.5 October 30, 2015
+Indenture, dated as of October 30, 2015, by and
+between SolarCity and the Trustee, related to
+SolarCity’s 5.00% Solar Bonds, Series 2015/25-10.
+4.69 One Hundred-and-Forty-Fourth Supplemental 8-K(1) 001-35758 4.6 October 30, 2015
+Indenture, dated as of October 30, 2015, by and
+between SolarCity and the Trustee, related to
+SolarCity’s 5.75% Solar Bonds, Series 2015/26-15.
+4.70 One Hundred-and-Forty-Eighth Supplemental 8-K(1) 001-35758 4.5 November 4, 2015
+Indenture, dated as of November 4, 2015, by and
+between SolarCity and the Trustee, related to
+SolarCity’s 4.70% Solar Bonds, Series 2015/C116-10.
+37
+Exhibit Incorporated by Reference Filed
+Number Exhibit Description Form File No. Exhibit Filing Date Herewith
+4.71 One Hundred-and-Fifty-Third Supplemental Indenture, 8-K(1) 001-35758 4.5 November 17, 2015
+dated as of November 16, 2015, by and between
+SolarCity and the Trustee, related to SolarCity’s 4.70%
+Solar Bonds, Series 2015/C121-10.
+4.72 One Hundred-and-Fifty-Fourth Supplemental 8-K(1) 001-35758 4.6 November 17, 2015
+Indenture, dated as of November 16, 2015, by and
+between SolarCity and the Trustee, related to
+SolarCity’s 5.45% Solar Bonds, Series 2015/C122-15.
+4.73 One Hundred-and-Fifty-Eighth Supplemental 8-K(1) 001-35758 4.5 November 30, 2015
+Indenture, dated as of November 30, 2015, by and
+between SolarCity and the Trustee, related to
+SolarCity’s 4.70% Solar Bonds, Series 2015/C126-10.
+4.74 One Hundred-and-Fifty-Ninth Supplemental Indenture, 8-K(1) 001-35758 4.6 November 30, 2015
+dated as of November 30, 2015, by and between
+SolarCity and the Trustee, related to SolarCity’s 5.45%
+Solar Bonds, Series 2015/C127-15.
+4.75 One Hundred-and-Sixty-Third Supplemental 8-K(1) 001-35758 4.5 December 14, 2015
+Indenture, dated as of December 14, 2015, by and
+between SolarCity and the Trustee, related to
+SolarCity’s 4.70% Solar Bonds, Series 2015/C131-10.
+4.76 One Hundred-and-Sixty-Fourth Supplemental 8-K(1) 001-35758 4.6 December 14, 2015
+Indenture, dated as of December 14, 2015, by and
+between SolarCity and the Trustee, related to
+SolarCity’s 5.45% Solar Bonds, Series 2015/C132-15.
+4.77 One Hundred-and-Sixty-Eighth Supplemental 8-K(1) 001-35758 4.5 December 28, 2015
+Indenture, dated as of December 28, 2015, by and
+between SolarCity and the Trustee, related to
+SolarCity’s 4.70% Solar Bonds, Series 2015/C136-10.
+38
+Exhibit Incorporated by Reference Filed
+Number Exhibit Description Form File No. Exhibit Filing Date Herewith
+4.78 One Hundred-and-Sixty-Ninth Supplemental 8-K(1) 001-35758 4.6 December 28, 2015
+Indenture, dated as of December 28, 2015, by and
+between SolarCity and the Trustee, related to
+SolarCity’s 5.45% Solar Bonds, Series 2015/C137-15.
+4.79 One Hundred-and-Seventy-Third Supplemental 8-K(1) 001-35758 4.5 January 29, 2016
+Indenture, dated as of January 29, 2016, by and
+between SolarCity and the Trustee, related to
+SolarCity’s 5.00% Solar Bonds, Series 2016/4-10.
+4.80 One Hundred-and-Seventy-Fourth Supplemental 8-K(1) 001-35758 4.6 January 29, 2016
+Indenture, dated as of January 29, 2016, by and
+between SolarCity and the Trustee, related to
+SolarCity’s 5.75% Solar Bonds, Series 2016/5-15.
+4.81 Description of Registrant’s Securities 10-K 001-34756 4.119 February 13, 2020
+10.1** Form of Indemnification Agreement between the S-1/A 333-164593 10.1 June 15, 2010
+Registrant and its directors and officers.
+10.2** 2003 Equity Incentive Plan. S-1/A 333-164593 10.2 May 27, 2010
+10.3** Form of Stock Option Agreement under 2003 Equity S-1 333-164593 10.3 January 29, 2010
+Incentive Plan.
+10.4** Amended and Restated 2010 Equity Incentive Plan. 10-K 001-34756 10.4 February 23, 2018
+10.5** Form of Stock Option Agreement under 2010 Equity 10-K 001-34756 10.6 March 1, 2017
+Incentive Plan.
+10.6** Form of Restricted Stock Unit Award Agreement 10-K 001-34756 10.7 March 1, 2017
+under 2010 Equity Incentive Plan.
+10.7** Amended and Restated 2010 Employee Stock 10-K 001-34756 10.8 March 1, 2017
+Purchase Plan, effective as of February 1, 2017.
+10.8** 2019 Equity Incentive Plan. S-8 333-232079 4.2 June 12, 2019
+10.9** Form of Stock Option Agreement under 2019 Equity S-8 333-232079 4.3 June 12, 2019
+Incentive Plan.
+39
+Exhibit Incorporated by Reference Filed
+Number Exhibit Description Form File No. Exhibit Filing Date Herewith
+10.10** Form of Restricted Stock Unit Award Agreement S-8 333-232079 4.4 June 12, 2019
+under 2019 Equity Incentive Plan.
+10.11** Employee Stock Purchase Plan, effective as of June 12, S-8 333-232079 4.5 June 12, 2019
+2019.
+10.12** 2007 SolarCity Stock Plan and form of agreements S-1(1) 333-184317 10.2 October 5, 2012
+used thereunder.
+10.13** 2012 SolarCity Equity Incentive Plan and form of S-1(1) 333-184317 10.3 October 5, 2012
+agreements used thereunder.
+10.14** 2010 Zep Solar, Inc. Equity Incentive Plan and form of S-8(1) 333-192996 4.5 December 20, 2013
+agreements used thereunder.
+10.15** Offer Letter between the Registrant and Elon Musk S-1 333-164593 10.9 January 29, 2010
+dated October 13, 2008.
+10.16** Performance Stock Option Agreement between the DEF 14A 001-34756 Appendix A February 8, 2018
+Registrant and Elon Musk dated January 21, 2018.
+10.17** Maxwell Technologies, Inc. 2005 Omnibus Equity 8-K(2) 001-15477 10.1 May 10, 2010
+Incentive Plan, as amended through May 6, 2010
+10.18** Maxwell Technologies, Inc. 2013 Omnibus Equity DEF 14A(2) 001-15477 Appendix A June 2, 2017
+Incentive Plan
+10.19 Indemnification Agreement, effective as of June 23, 10-Q 001-34756 10.4 July 28, 2020
+2020, between Registrant and Elon R. Musk.
+10.20 Indemnification Agreement, dated as of February 27, 8-K 001-34756 10.1 March 5, 2014
+2014, by and between the Registrant and J.P. Morgan
+Securities LLC.
+10.21 Form of Call Option Confirmation relating to 1.25% 8-K 001-34756 10.3 March 5, 2014
+Convertible Senior Notes Due March 1, 2021.
+10.22 Form of Warrant Confirmation relating to 1.25% 8-K 001-34756 10.5 March 5, 2014
+Convertible Senior Notes Due March 1, 2021.
+10.23 Form of Call Option Confirmation relating to 2.375% 8-K 001-34756 10.1 March 22, 2017
+Convertible Notes due March 15, 2022.
+40
+Exhibit Incorporated by Reference Filed
+Number Exhibit Description Form File No. Exhibit Filing Date Herewith
+10.24 Form of Warrant Confirmation relating to 2.375% 8-K 001-34756 10.2 March 22, 2017
+Convertible Notes due March 15, 2022.
+10.25 Form of Call Option Confirmation relating to 2.00% 8-K 001-34756 10.1 May 3, 2019
+Convertible Senior Notes due May 15, 2024.
+10.26 Form of Warrant Confirmation relating to 2.00% 8-K 001-34756 10.2 May 3, 2019
+Convertible Senior Notes due May 15, 2024.
+10.27† Supply Agreement between Panasonic Corporation 10-K 001-34756 10.50 February 27, 2012
+and the Registrant dated October 5, 2011.
+10.28† Amendment No. 1 to Supply Agreement between 10-K 001-34756 10.35A February 26, 2014
+Panasonic Corporation and the Registrant dated
+October 29, 2013.
+10.29 Agreement between Panasonic Corporation and the 10-Q 001-34756 10.1 November 7, 2014
+Registrant dated July 31, 2014.
+10.30† General Terms and Conditions between Panasonic 8-K 001-34756 10.2 October 11, 2016
+Corporation and the Registrant dated October 1, 2014.
+10.31 Letter Agreement, dated as of February 24, 2015, 10-K 001-34756 10.25A February 24, 2016
+regarding addition of co-party to General Terms and
+Conditions, Production Pricing Agreement and
+Investment Letter Agreement between Panasonic
+Corporation and the Registrant.
+10.32† Amendment to Gigafactory General Terms, dated 8-K 001-34756 10.1 October 11, 2016
+March 1, 2016, by and among the Registrant,
+Panasonic Corporation and Panasonic Energy
+Corporation of North America.
+10.33†† Amended and Restated General Terms and Conditions 10-Q 001-34756 10.2 July 28, 2020
+for Gigafactory, entered into on June 10, 2020, by and
+among Registrant, Tesla Motors Netherlands B.V.,
+Panasonic Corporation and Panasonic Corporation of
+North America.
+10.34† Production Pricing Agreement between Panasonic 10-Q 001-34756 10.3 November 7, 2014
+Corporation and the Registrant dated October 1, 2014.
+41
+Exhibit Incorporated by Reference Filed
+Number Exhibit Description Form File No. Exhibit Filing Date Herewith
+10.35† Investment Letter Agreement between Panasonic 10-Q 001-34756 10.4 November 7, 2014
+Corporation and the Registrant dated October 1, 2014.
+10.36 Amendment to Gigafactory Documents, dated April 5, 10-Q 001-34756 10.2 May 10, 2016
+2016, by and among the Registrant, Panasonic
+Corporation, Panasonic Corporation of North America
+and Panasonic Energy Corporation of North America.
+10.37†† 2019 Pricing Agreement (Japan Cells) with respect to 10-Q 001-34756 10.6 October 29, 2019
+2011 Supply Agreement, executed September 20,
+2019, by and among the Registrant, Tesla Motors
+Netherlands B.V., Panasonic Corporation and SANYO
+Electric Co., Ltd.
+10.38†† 2020 Pricing Agreement (Gigafactory 2170 Cells), 10-Q 001-34756 10.3 July 28, 2020
+entered into on June 9, 2020, by and among
+Registrant, Tesla Motors Netherlands B.V., Panasonic
+Corporation and Panasonic Corporation of North
+America.
+10.39†† 2021 Pricing Agreement (Japan Cells) with respect to 10-K 001-34756 10.39 February 8, 2021
+2011 Supply Agreement, executed December 29,
+2020, by and among the Registrant, Tesla Motors
+Netherlands B.V., Panasonic Corporation of North
+America and SANYO Electric Co., Ltd.
+10.40†† Amended and Restated Factory Lease, executed as of 10-Q 001-34756 10.3 July 29, 2019
+March 26, 2019, by and between the Registrant and
+Panasonic Energy North America, a division of
+Panasonic Corporation of North America, as tenant.
+10.41†† Lease Amendment, executed September 20, 2019, by 10-Q 001-34756 10.7 October 29, 2019
+and among the Registrant, Panasonic Corporation of
+North America, on behalf of its division Panasonic
+Energy of North America, with respect to the
+Amended and Restated Factory Lease, executed as of
+March 26, 2019.
+42
+Exhibit Incorporated by Reference Filed
+Number Exhibit Description Form File No. Exhibit Filing Date Herewith
+10.42†† Second Lease Amendment, entered into on June 9, 10-Q 001-34756 10.1 July 28, 2020
+2020, by and between the Registrant and Panasonic
+Energy of North America, a division of Panasonic
+Corporation of North America, with respect to the
+Amended and Restated Factory Lease dated January 1,
+2017.
+10.43 Amendment and Restatement in respect of ABL Credit S-4/A 333-229749 10.68 April 3, 2019
+Agreement, dated as of March 6, 2019, by and among
+certain of the Registrant’s and Tesla Motors
+Netherlands B.V.’s direct or indirect subsidiaries from
+time to time party thereto, as borrowers, Wells Fargo
+Bank, National Association, as documentation agent,
+JPMorgan Chase Bank, N.A., Goldman Sachs Bank
+USA, Morgan Stanley Senior Funding Inc. and Bank of
+America, N.A., as syndication agents, the lenders from
+time to time party thereto, and Deutsche Bank AG
+New York Branch, as administrative agent and
+collateral agent.
+10.44 First Amendment to Amended and Restated ABL 10-K 001-34756 10.44 February 8, 2021
+Credit Agreement, dated as of December 23, 2020, in
+respect of the Amended and Restated ABL Credit
+Agreement, dated as of March 6, 2019, by and among
+certain of the Registrant’s and Tesla Motors
+Netherlands B.V.’s direct or indirect subsidiaries from
+time to time party thereto, as borrowers, Wells Fargo
+Bank, National Association, as documentation agent,
+JPMorgan Chase Bank, N.A., Goldman Sachs Bank
+USA, Morgan Stanley Senior Funding Inc. and Bank of
+America, N.A., as syndication agents, the lenders from
+time to time party thereto, and Deutsche Bank AG
+New York Branch, as administrative agent and
+collateral agent.
+10.45† Agreement for Tax Abatement and Incentives, dated as 10-Q 001-34756 10.1 August 7, 2015
+of May 7, 2015, by and between Tesla Motors, Inc. and
+the State of Nevada, acting by and through the
+Nevada Governor’s Office of Economic Development.
+43
+Exhibit Incorporated by Reference Filed
+Number Exhibit Description Form File No. Exhibit Filing Date Herewith
+10.46†† Second Amended and Restated Loan and Security 10-Q 001-34756 10.2 October 26, 2020
+Agreement, dated as of August 28, 2020, by and
+among Tesla 2014 Warehouse SPV LLC, Tesla Finance
+LLC, the Lenders and Group Agents from time to time
+party thereto, Deutsche Bank Trust Company
+Americas, as Paying Agent, and Deutsche Bank AG,
+New York Branch, as Administrative Agent.
+10.47 Amendment No. 1 to Second Amended and Restated 10-Q 001-34756 10.1 April 28, 2021
+Loan and Security Agreement, dated as of March 15,
+2021, by and among Tesla 2014 Warehouse SPV LLC,
+Tesla Finance LLC, the Lenders and Group Agents
+from time to time party thereto, Deutsche Bank Trust
+Company Americas, as Paying Agent, and Deutsche
+Bank AG, New York Branch, as Administrative Agent.
+10.48†† Amendment No. 2 to Second Amended and Restated 10-Q 001-34756 10.1 July 27, 2021
+Loan and Security Agreement, dated as of June 8,
+2021, by and among Tesla 2014 Warehouse SPV LLC,
+Tesla Finance LLC, the Lenders and Group Agents
+from time to time party thereto, Deutsche Bank Trust
+Company Americas, as Paying Agent, and Deutsche
+Bank AG, New York Branch, as Administrative Agent.
+10.49† Loan and Security Agreement, executed on December 10-K 001-34756 10.55 February 19, 2019
+28, 2018, by and among LML 2018 Warehouse SPV,
+LLC, Tesla Finance LLC, the Lenders and Group
+Agents from time to time party thereto, Deutsche Bank
+Trust Company Americas, as Paying Agent, and
+Deutsche Bank AG, New York Branch, as
+Administrative Agent.
+44
+Exhibit Incorporated by Reference Filed
+Number Exhibit Description Form File No. Exhibit Filing Date Herewith
+10.50†† Letter of Consent, dated as of June 14, 2019, by and 10-Q 001-34756 10.1 July 29, 2019
+among LML 2018 Warehouse SPV, LLC, Deutsche
+Bank AG, New York Branch, as Administrative Agent,
+and the Group Agents party thereto, in respect of the
+Loan and Security Agreement, dated as of August 17,
+2017 and as amended from time to time, by and
+among LML Warehouse SPV, LLC, Tesla Finance LLC,
+and the Lenders, Group Agents and Administrative
+Agent from time to time party thereto.
+10.51†† Amendment No. 1 to Loan and Security Agreement, 10-Q 001-34756 10.2 October 29, 2019
+dated as of August 16, 2019, by and among LML 2018
+Warehouse SPV, LLC, Deutsche Bank Trust Company
+Americas, as Paying Agent, and Deutsche Bank AG,
+New York Branch, as Administrative Agent, and the
+Lenders and Group Agents from time to time party
+thereto.
+10.52 Amendment No. 2 to Loan and Security Agreement, 10-K 001-34756 10.69 February 13, 2020
+dated as of December 13, 2019, by and among LML
+2018 Warehouse SPV, LLC, Deutsche Bank Trust
+Company Americas, as Paying Agent, and Deutsche
+Bank AG, New York Branch, as Administrative Agent,
+and the Lenders and Group Agents from time to time
+party thereto.
+45
+Exhibit Incorporated by Reference Filed
+Number Exhibit Description Form File No. Exhibit Filing Date Herewith
+10.53 Letter of Consent, dated February 18, 2020, by and 10-Q 001-34756 10.1 April 30, 2020
+among LML 2018 Warehouse SPV, LLC, Tesla 2014
+Warehouse SPV LLC, LLC and Deutsche Bank AG,
+New York Branch, as Administrative Agent and as
+Group Agent under the 2018 Loan Agreement and the
+2014 Loan Agreement, and the Group Agents party
+thereto, in respect of (i) the Loan and Security
+Agreement, dated December 27, 2018 and as amended
+from time to time, among LML 2018 Warehouse SPV,
+LLC, Tesla Finance LLC, Deutsche Bank Trust
+Company Americans, as Paying Agent, Deutsche Bank
+AG, New York Branch, as Administrative Agent, the
+lenders parties and agent parties thereto, and (ii) the
+Amended and Restated Loan and Security Agreement,
+dated August 17, 2017 and as amended from time to
+time, among Tesla 2014 Warehouse SPV LLC, Tesla
+Finance LLC, the lenders and group agents party
+thereto, Deutsche Bank Trust Company Americas, as
+Paying Agent, and Deutsche Bank AG, New York
+Branch, as Administrative Agent.
+10.54†† Letter of Consent, dated as of August 14, 2020, by and 10-Q 001-34756 10.1 October 26, 2020
+among LML 2018 Warehouse SPV, LLC, Tesla 2014
+Warehouse SPV LLC, Deutsche Bank AG, New York
+Branch, as Administrative Agent and Group Agent, and
+the Group Agents party thereto, in respect of (i) the
+Loan and Security Agreement, dated as of December
+27, 2018 and as amended from time to time, by and
+among LML 2018 Warehouse SPV, LLC, Tesla Finance
+LLC, and the Lenders, Group Agents, Paying Agent
+and Administrative Agent from time to time party
+thereto, and (ii) the Amended and Restated Loan and
+Security Agreement, dated as of August 17, 2017 and
+as amended from time to time, by and among LML
+Warehouse SPV, LLC, Tesla Finance LLC, and the
+Lenders, Group Agents and Administrative Agent from
+time to time party thereto.
+46
+Exhibit Incorporated by Reference Filed
+Number Exhibit Description Form File No. Exhibit Filing Date Herewith
+10.55 Payoff and Termination Letter, executed on August 28, 10-Q 001-34756 10.3 October 26, 2020
+2020, by and among LML 2018 Warehouse SPV, LLC,
+the Lenders and Group Agents from time to time party
+thereto, Deutsche Bank Trust Company Americas, as
+Paying Agent and Deutsche Bank AG, New York
+Branch, as Administrative Agent, relating to Loan and
+Security Agreement.
+10.56 Purchase Agreement, dated as of August 11, 2017, by 8-K 001-34756 10.1 August 23, 2017
+and among the Registrant, SolarCity and Goldman
+Sachs & Co. LLC and Morgan Stanley & Co. LLC as
+representatives of the several initial purchasers
+named therein.
+10.57 Amended and Restated Agreement For Research & 10-Q(1) 001-35758 10.16 November 6, 2014
+Development Alliance on Triex Module Technology,
+effective as of September 2, 2014, by and between The
+Research Foundation For The State University of New
+York, on behalf of the College of Nanoscale Science
+and Engineering of the State University of New York,
+and Silevo, Inc.
+10.58 First Amendment to Amended and Restated 10-K(1) 001-35758 10.16a February 24, 2015
+Agreement For Research & Development Alliance on
+Triex Module Technology, effective as of October 31,
+2014, by and between The Research Foundation For
+The State University of New York, on behalf of the
+College of Nanoscale Science and Engineering of the
+State University of New York, and Silevo, Inc.
+10.59 Second Amendment to Amended and Restated 10-K(1) 001-35758 10.16b February 24, 2015
+Agreement For Research & Development Alliance on
+Triex Module Technology, effective as of December 15,
+2014, by and between The Research Foundation For
+The State University of New York, on behalf of the
+College of Nanoscale Science and Engineering of the
+State University of New York, and Silevo, Inc.
+47
+Exhibit Incorporated by Reference Filed
+Number Exhibit Description Form File No. Exhibit Filing Date Herewith
+10.60 Third Amendment to Amended and Restated 10-Q(1) 001-35758 10.16c May 6, 2015
+Agreement For Research & Development Alliance on
+Triex Module Technology, effective as of February 12,
+2015, by and between The Research Foundation For
+The State University of New York, on behalf of the
+College of Nanoscale Science and Engineering of the
+State University of New York, and Silevo, Inc.
+10.61 Fourth Amendment to Amended and Restated 10-Q(1) 001-35758 10.16d May 6, 2015
+Agreement For Research & Development Alliance on
+Triex Module Technology, effective as of March 30,
+2015, by and between The Research Foundation For
+The State University of New York, on behalf of the
+College of Nanoscale Science and Engineering of the
+State University of New York, and Silevo, Inc.
+10.62 Fifth Amendment to Amended and Restated 10-Q(1) 001-35758 10.16e July 30, 2015
+Agreement For Research & Development Alliance on
+Triex Module Technology, effective as of June 30,
+2015, by and between The Research Foundation For
+The State University of New York, on behalf of the
+College of Nanoscale Science and Engineering of the
+State University of New York, and Silevo, LLC.
+10.63 Sixth Amendment to Amended and Restated 10-Q(1) 001-35758 10.16f October 30, 2015
+Agreement For Research & Development Alliance on
+Triex Module Technology, effective as of September 1,
+2015, by and between The Research Foundation For
+The State University of New York, on behalf of the
+College of Nanoscale Science and Engineering of the
+State University of New York, and Silevo, LLC.
+10.64 Seventh Amendment to Amended and Restated 10-Q(1) 001-35758 10.16g October 30, 2015
+Agreement For Research & Development Alliance on
+Triex Module Technology, effective as of October 9,
+2015, by and between The Research Foundation For
+The State University of New York, on behalf of the
+College of Nanoscale Science and Engineering of the
+State University of New York, and Silevo, LLC.
+48
+Exhibit Incorporated by Reference Filed
+Number Exhibit Description Form File No. Exhibit Filing Date Herewith
+10.65 Eighth Amendment to Amended and Restated 10-Q(1) 001-35758 10.16h October 30, 2015
+Agreement For Research & Development Alliance on
+Triex Module Technology, effective as of October 26,
+2015, by and between The Research Foundation For
+The State University of New York, on behalf of the
+College of Nanoscale Science and Engineering of the
+State University of New York, and Silevo, LLC.
+10.66 Ninth Amendment to Amended and Restated 10-K(1) 001-35758 10.16i February 10, 2016
+Agreement For Research & Development Alliance on
+Triex Module Technology, effective as of December 9,
+2015, by and between The Research Foundation For
+The State University of New York, on behalf of the
+College of Nanoscale Science and Engineering of the
+State University of New York, and Silevo, LLC.
+10.67 Tenth Amendment to Amended and Restated 10-Q 001-34756 10.8 May 10, 2017
+Agreement For Research & Development Alliance on
+Triex Module Technology, effective as of March 31,
+2017, by and between The Research Foundation For
+The State University of New York, on behalf of the
+Colleges of Nanoscale Science and Engineering of the
+State University of New York, and Silevo, LLC.
+10.68 Eleventh Amendment to Amended and Restated 10-Q 001-34756 10.6 July 28, 2020
+Agreement for Research & Development Alliance on
+Triex Module Technology, effective as of July 22, 2020,
+among the Research Foundation for the State
+University of New York, Silevo, LLC and Tesla Energy
+Operations, Inc.
+10.69 Twelfth Amendment to Amended and Restated 10-Q 001-34756 10.1 October 25, 2021
+Agreement for Research & Development Alliance on
+Triex Module Technology, effective as of May 1, 2021,
+among the Research Foundation for the State
+University of New York, Silevo, LLC and Tesla Energy
+Operations, Inc.
+49
+Exhibit Incorporated by Reference Filed
+Number Exhibit Description Form File No. Exhibit Filing Date Herewith
+10.70†† Grant Contract for State-Owned Construction Land 10-Q 001-34756 10.2 July 29, 2019
+Use Right, dated as of October 17, 2018, by and
+between Shanghai Planning and Land Resource
+Administration Bureau, as grantor, and Tesla
+(Shanghai) Co., Ltd., as grantee (English translation).
+10.71†† Facility Agreement, dated as of September 26, 2019, 10-Q 001-34756 10.3 October 29, 2019
+by and between China Merchants Bank Co., Ltd.
+Beijing Branch and Tesla Automobile (Beijing) Co.,
+Ltd. (English translation).
+10.72†† Statement Letter to China Merchants Bank Co., Ltd. 10-Q 001-34756 10.4 October 29, 2019
+Beijing Branch from Tesla Automobile (Beijing) Co.,
+Ltd., dated as of September 26, 2019 (English
+translation).
+10.73†† Fixed Asset Syndication Loan Agreement, dated as of 10-K 001-34756 10.85 February 13, 2020
+December 18, 2019, by and among Tesla (Shanghai)
+Co., Ltd., China Construction Bank Corporation, China
+(Shanghai) Pilot Free Trade Zone Special Area Branch,
+Agricultural Bank of China Shanghai Changning Sub-
+branch, Shanghai Pudong Development Bank Co., Ltd.,
+Shanghai Branch, and Industrial and Commercial
+Bank of China Limited, China (Shanghai) Pilot Free
+Trade Zone Special Area Branch (English translation).
+10.74†† Fixed Asset Syndication Loan Agreement and 10-K 001-34756 10.86 February 13, 2020
+Supplemental Agreement, dated as of December 18,
+2019, by and among Tesla (Shanghai) Co., Ltd., China
+Construction Bank Corporation, China (Shanghai) Pilot
+Free Trade Zone Special Area Branch, Agricultural
+Bank of China Shanghai Changning Sub-branch,
+Shanghai Pudong Development Bank Co., Ltd.,
+Shanghai Branch, and Industrial and Commercial
+Bank of China Limited, China (Shanghai) Pilot Free
+Trade Zone Special Area Branch (English translation).
+50
+Exhibit Incorporated by Reference Filed
+Number Exhibit Description Form File No. Exhibit Filing Date Herewith
+10.75†† Syndication Revolving Loan Agreement, dated as of 10-K 001-34756 10.87 February 13, 2020
+December 18, 2019, by and among Tesla (Shanghai)
+Co., Ltd. China Construction Bank Corporation, China
+(Shanghai) Pilot Free Trade Zone Special Area Branch,
+Agricultural Bank of China Shanghai Changning Sub-
+branch, Shanghai Pudong Development Bank Co., Ltd.,
+Shanghai Branch, and Industrial and Commercial
+Bank of China Limited, China (Shanghai) Pilot Free
+Trade Zone Special Area Branch (English translation).
+10.76†† Working Capital Loan Contact, dated as of May 7, 10-Q 001-34756 10.5 July 28, 2020
+2020, between Industrial and Commercial Bank of
+China, China (Shanghai) Pilot Free Trade Zone
+Lingang Special Area Branch and Tesla (Shanghai)
+Co., Ltd.
+21.1 List of Subsidiaries of the Registrant 10-K 001-34756 21.1 February 7, 2022
+23.1 Consent of PricewaterhouseCoopers LLP, Independent 10-K 001-34756 23.1 February 7, 2022
+Registered Public Accounting Firm
+31.1 Rule 13a-14(a) / 15(d)-14(a) Certification of Principal 10-K 001-34756 31.1 February 7, 2022
+Executive Officer
+31.2 Rule 13a-14(a) / 15(d)-14(a) Certification of Principal 10-K 001-34756 31.2 February 7, 2022
+Financial Officer
+31.3 Rule 13a-14(a) / 15(d)-14(a) Certification of Principal
+X
+Executive Officer — — — —
+31.4 Rule 13a-14(a) / 15(d)-14(a) Certification of Principal
+X
+Financial Officer — — — —
+32.1* Section 1350 Certifications 10-K 001-34756 32.1 February 7, 2022
+101.INS* Inline XBRL Instance Document 10-K 001-34756 101.INS February 7, 2022
+101.SCH* Inline XBRL Taxonomy Extension Schema Document 10-K 001-34756 101.SCH February 7, 2022
+51
+Exhibit Incorporated by Reference Filed
+Number Exhibit Description Form File No. Exhibit Filing Date Herewith
+101.CAL* Inline XBRL Taxonomy Extension Calculation Linkbase 10-K 001-34756 101.CAL February 7, 2022
+Document.
+101.DEF* Inline XBRL Taxonomy Extension Definition Linkbase 10-K 001-34756 101.DEF February 7, 2022
+Document
+101.LAB* Inline XBRL Taxonomy Extension Label Linkbase 10-K 001-34756 101.LAB February 7, 2022
+Document
+101.PRE* Inline XBRL Taxonomy Extension Presentation 10-K 001-34756 101.PRE February 7, 2022
+Linkbase Document
+104 Cover Page Interactive Data File (formatted as inline
+XBRL with applicable taxonomy extension information
+contained in Exhibits 101)
+* Previously filed or furnished, as applicable, with the Original Form 10-K.
+** Indicates a management contract or compensatory plan or arrangement
+† Confidential treatment has been requested for portions of this exhibit
+†† Portions of this exhibit have been redacted in compliance with Regulation S-K Item 601(b)(10).
+(1) Indicates a filing of SolarCity
+(2) Indicates a filing of Maxwell Technologies, Inc.
+52
+SIGNATURES
+Pursuant to the requirements of Section 13 or 15(d) the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized.
+Tesla, Inc.
+Date: April 29, 2022 /s/ Zachary J. Kirkhorn
+Zachary J. Kirkhorn
+Chief Financial Officer
+(Principal Financial Officer and
+Duly Authorized Officer)
+53
+Exhibit 31.3
+CERTIFICATIONS
+I, Elon Musk, certify that:
+1. I have reviewed this Amendment No. 1 to Annual Report on Form 10-K of Tesla, Inc.; and
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the
+statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this
+report.
+Date: April 29, 2022 /s/ Elon Musk
+Elon Musk
+Chief Executive Officer
+(Principal Executive Officer)
+Exhibit 31.4
+CERTIFICATIONS
+I, Zachary J. Kirkhorn, certify that:
+1. I have reviewed this Amendment No. 1 to Annual Report on Form 10-K of Tesla, Inc.; and
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the
+statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this
+report.
+Date: April 29, 2022 /s/ Zachary J. Kirkhorn
+Zachary J. Kirkhorn
+Chief Financial Officer
+(Principal Financial Officer)
