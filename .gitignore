@@ -1,4 +1,4 @@
 # 忽略数据文件
-data/processed/*
-data/raw/*
-models/*
+# data/processed/*
+# data/raw/*
+# models/*
