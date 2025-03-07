@@ -5,7 +5,7 @@ import os
 # 股票代码列表
 stocks = ["AAPL", "MSFT", "GOOGL", "NVDA", "TSLA"]
 start_date = "2013-01-01"
-end_date = "2025-03-01"
+end_date = "2025-03-05"
 
 # 创建保存路径（使用绝对路径）
 base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))  # 项目根目录
