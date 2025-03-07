@@ -1,170 +1,140 @@
-import re
-import spacy
-from dateutil.parser import parse
-from datetime import datetime
 import os
-from tqdm import tqdm
+import re
+import requests
 import pandas as pd
+import time
+from datetime import datetime
+from tqdm import tqdm
 
-# ------------------
-# 配置部分
-# ------------------
-# 加载英文NLP模型（先运行：python -m spacy download en_core_web_sm）
-nlp = spacy.load("en_core_web_sm")
+# DeepSeek API配置
+DEEPSEEK_API_KEY = "你的API密钥"  # 替换为实际密钥
+API_ENDPOINT = "https://api.deepseek.com/v1/chat/completions"
 
-# 英文日期正则表达式（覆盖更多格式）
-DATE_PATTERNS = [
-    r"\b(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]* \d{1,2}, \d{4}\b",  # Mar 15, 2023
-    r"\b\d{1,2} (?:January|February|March|April|May|June|July|August|September|October|November|December) \d{4}\b",  # 15 March 2023
-    r"\b\d{4}-\d{2}-\d{2}\b",          # ISO格式 2023-03-15
-    r"\b\d{1,2}/\d{1,2}/\d{4}\b",      # MM/DD/YYYY 或 DD/MM/YYYY
-    r"\b\d{4}_\d{2}_\d{2}\b",          # 2023_03_15（某些PDF转换后可能出现）
-    r"\b(?:Q1|Q2|Q3|Q4) \d{4}\b",      # 季报格式 Q4 2023
-    r"\b\d{2}-(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)-\d{4}\b"  # 15-Mar-2023
-]
+def extract_report_date(text, max_retries=3):
+    """
+    使用DeepSeek API提取财报发布日期
+    返回格式：YYYY-MM-DD 或 "Not Found"
+    """
+    headers = {
+        "Content-Type": "application/json",
+        "Authorization": f"Bearer {DEEPSEEK_API_KEY}",
+        "Accept": "application/json"
+    }
 
-COMBINED_DATE_REGEX = re.compile(
-    "|".join(DATE_PATTERNS), 
-    flags=re.IGNORECASE
-)
+    # 优化后的系统提示词
+    system_prompt = """你是一个专业的财务文档分析助手。请执行以下操作：
+1. 在用户提供的文本中准确识别公司财报的官方发布日期
+2. 日期必须满足：
+   - 来自报告标题或发布声明
+   - 排除历史数据日期、表格日期等无关日期
+3. 输出格式严格遵守YYYY-MM-DD，如未找到返回"Not Found"
+不要任何解释，只需返回日期或"Not Found"
+"""
 
-# 英文关键词上下文（优先级从高到低）
-KEYWORD_CONTEXTS = [
-    {"keywords": ["release date", "report date", "filing date"], "window": 50},
-    {"keywords": ["published", "issued", "dated"], "window": 30},
-    {"keywords": ["quarter ended", "year ended"], "window": 100}
-]
+    # 文本预处理函数
+    def preprocess_text(text):
+        text = re.sub(r'\s+', ' ', text)  # 合并空白字符
+        return text[:8000]  # 控制token用量
 
-# ------------------
-# 核心函数
-# ------------------
-def extract_dates_with_context(text):
-    """用spacy提取日期实体及其上下文"""
-    doc = nlp(text)
-    date_entities = []
+    processed_text = preprocess_text(text)
+
+    payload = {
+        "model": "deepseek-chat",
+        "messages": [
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": processed_text}
+        ],
+        "temperature": 0.1,
+        "max_tokens": 20
+    }
+
+    for attempt in range(max_retries):
+        try:
+            response = requests.post(API_ENDPOINT, headers=headers, json=payload, timeout=10)
+            response.raise_for_status()
+            
+            result = response.json()['choices'][0]['message']['content'].strip()
+            
+            # 验证日期格式
+            if validate_date_format(result):
+                return result
+            return "Invalid Format"
+        
+        except requests.exceptions.HTTPError as e:
+            if response.status_code == 429:  # 速率限制处理
+                wait_time = int(response.headers.get('Retry-After', 30))
+                print(f"达到速率限制，等待 {wait_time}秒...")
+                time.sleep(wait_time)
+            else:
+                print(f"API错误: {e}")
+                time.sleep(2)
+        except Exception as e:
+            print(f"其他错误: {e}")
+            time.sleep(1)
     
-    for ent in doc.ents:
-        if ent.label_ == "DATE":
-            # 获取上下文窗口
-            start = max(0, ent.start_char - 50)
-            end = min(len(text), ent.end_char + 50)
-            context = text[start:end].replace("\n", " ")
-            date_entities.append((ent.text, context))
-    
-    return date_entities
+    return "API Error"
 
-def is_valid_date(date_str):
-    """验证是否为合理日期（过滤明显错误）"""
+def validate_date_format(date_str):
+    """验证日期格式和合理性"""
     try:
-        date = parse(date_str, fuzzy=True)
-        # 假设财报年份在1990-当前年份之间
-        return 2013 <= date.year <= datetime.now().year
+        date = datetime.strptime(date_str, "%Y-%m-%d")
+        return 1990 <= date.year <= datetime.now().year
     except:
         return False
-
-def find_keyword_based_date(text):
-    """基于关键词上下文的日期提取"""
-    for context_group in KEYWORD_CONTEXTS:
-        for keyword in context_group["keywords"]:
-            # 构建动态正则表达式
-            pattern = re.compile(
-                fr"\b{keyword}\b.*?(\d{{4}}[-/_]\d{{1,2}}[-/_]\d{{1,2}}|\b(?:{'|'.join(DATE_PATTERNS)}))",
-                re.IGNORECASE | re.DOTALL
-            )
-            match = pattern.search(text)
-            if match:
-                return match.group(1)
-    return None
-
-def prioritize_dates(candidates):
-    """日期优先级排序"""
-    valid_dates = []
-    for date_str in candidates:
-        if is_valid_date(date_str):
-            try:
-                dt = parse(date_str)
-                valid_dates.append((dt, date_str))
-            except:
-                continue
-    
-    if not valid_dates:
-        return None
-    
-    # 按以下优先级排序：
-    # 1. 最接近文档开头
-    # 2. 最近日期（如果是年报）
-    # 3. 格式最明确的日期（包含月份名称的格式）
-    sorted_dates = sorted(
-        valid_dates,
-        key=lambda x: (
-            -x[0].year,  # 优先新年报
-            "AMJFMASONDJ" in x[1].lower(),  # 包含月份名称的格式更可靠
-            len(x[1])  # 长格式更可靠
-        ),
-        reverse=True
-    )
-    
-    return sorted_dates[0][1]
-
-def extract_report_date(text):
-    # 策略1：关键词上下文匹配
-    keyword_date = find_keyword_based_date(text)
-    if keyword_date:
-        return keyword_date
-    
-    # 策略2：spacy实体提取
-    spacy_dates = extract_dates_with_context(text)
-    if spacy_dates:
-        # 提取前10%文本中的日期（假设日期在开头）
-        early_text = text[:len(text)//10]
-        early_dates = COMBINED_DATE_REGEX.findall(early_text)
-        if early_dates:
-            return prioritize_dates(early_dates)
-        
-        # 使用所有找到的日期
-        all_dates = [date[0] for date in spacy_dates]
-        return prioritize_dates(all_dates)
-    
-    # 策略3：正则全局匹配
-    all_matches = COMBINED_DATE_REGEX.findall(text)
-    if all_matches:
-        return prioritize_dates(all_matches)
-    
-    return "NOT_FOUND"
-
 
 def reports_data_extract(input_folder, output_folder):
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
 
+    # 设置输出CSV路径
+    output_csv = os.path.join(output_folder, "report_dates.csv")
     results = []
-    for filename in os.listdir(input_folder):
-        if not filename.endswith(".txt"):
-            continue
-        # 得到当前文件的路径
-        file_path = os.path.join(input_folder, filename)
-        # 读取txt文件到text中
-        with open(file_path, 'r', encoding='utf-8') as f:
-            text = f.read()
-        
-        date = extract_report_date(text)
-        results.append({
-            "filename": filename,
-            "extracted_date": date,
-            "validation_status": "待验证"  # 供人工检查
-        })
+    
+    # 获取文件列表
+    files = [f for f in os.listdir(input_folder) if f.endswith(".txt")]
+    
+    # 添加进度条
+    with tqdm(total=len(files), desc="Processing Reports") as pbar:
+        for filename in files:
+            if not filename.endswith(".txt"):
+                continue
+
+            file_path = os.path.join(input_folder, filename)
+            with open(file_path, 'r', encoding='utf-8') as f:
+                text = f.read()
+            
+            date = extract_report_date(text)
+            results.append({
+                "filename": filename,
+                "extracted_date": date,
+                "validation_status": "待验证"
+            })
+            
+            pbar.update(1)
+            time.sleep(1)  # 控制请求频率
+
+    # 保存结果
     df = pd.DataFrame(results)
     df.to_csv(output_csv, index=False)
-    print(f"处理完成！结果保存至 {output_csv}")
+    print(f"\n处理完成！结果保存至 {output_csv}")
     print("建议执行以下操作：")
     print("1. 随机抽样检查结果准确性")
-    print("2. 分析错误案例改进正则表达式")
-    print("3. 对持续错误的格式添加定制规则")
+    print("2. 分析错误案例改进流程")
+    print("3. 使用以下代码查看示例：")
+    print("   import pandas as pd")
+    print(f'   df = pd.read_csv("{output_csv}")')
+    print("   print(df.sample(3))")
 
-
-current_script_path = os.path.abspath(os.path.dirname(__file__))
-base_dir = os.path.join(current_script_path, '..', '..', 'data', 'processed', 'reports')
-input_dir = os.path.join(base_dir, 'txtfile')
-output_dir = os.path.join(base_dir, 'report_time')
-# 使用示例
-# process_reports_batch("txt_output")
+# 路径配置
+if __name__ == "__main__":
+    current_script_path = os.path.abspath(os.path.dirname(__file__))
+    base_dir = os.path.join(current_script_path, '..', '..', 'data', 'processed', 'reports')
+    
+    input_dir = os.path.join(base_dir, 'txtfile')
+    output_dir = os.path.join(base_dir, 'report_time')
+    
+    # 验证输入路径是否存在
+    if not os.path.exists(input_dir):
+        raise FileNotFoundError(f"输入目录不存在: {input_dir}")
+    
+    reports_data_extract(input_dir, output_dir)
