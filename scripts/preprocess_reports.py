@@ -1,3 +1,8 @@
+# preprocess_report.py
+# 预处理财报数据，清洗和嵌入成模型输入
+# 读取原始财报文本，清洗标点和停用词，用 FinBert 提取嵌入，存成 .npy 文件
+# 用相对路径，确保代码在不同机器上都能跑
+
 # 导入必要的库
 import os  # 用于处理文件路径和目录操作，比如创建文件夹、拼接路径
 import numpy as np  # 用于处理数组和保存数据，财报的嵌入会存成 .npy 文件
@@ -29,8 +34,7 @@ def preprocess_report(stock):
     embeddings = []  # 存每年的嵌入向量，最后凑成一个大数组
     # 循环处理 2013-2024 年的 10-K 财报（12 年）
     for year in range(2013, 2025):
-        # 拼接年报文件路径，比如 "NVDA_10K_2013.txt"
-        # 用 "10-K" 代替之前的 "10K"，跟文件名保持一致
+        # 拼接年报文件路径，比如 "NVDA_10-K_2013.txt"
         file_path = os.path.join(input_dir, f"{stock}_10-K_{year}.txt")
         
         # 检查文件是否存在，不存在就跳过

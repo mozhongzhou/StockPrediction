@@ -1,3 +1,9 @@
+# preprocess_kline.py
+# 预处理 K 线数据，清洗和序列化成模型输入
+# 读取原始 K 线 CSV，清洗缺失值和异常值，归一化，切成 104 周序列，存成 .npy 文件
+# 用相对路径，确保代码在任何机器上都能跑
+
+
 # 导入必要的库
 import pandas as pd  # 处理表格数据，读 CSV、清洗、切片都靠它
 import numpy as np  # 处理数组，存序列化的 K 线数据到 .npy 文件
