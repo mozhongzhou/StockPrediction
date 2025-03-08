@@ -1,0 +1,51 @@
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+____________________________________________________________________________________________
+FORM 10-K
+[x] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended January 26, 2014
+OR
+[_] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+Commission file number: 0-23985
+NVIDIA CORPORATION
+(Exact name of registrant as specified in its charter)
+Delaware 94-3177549
+(State or other jurisdiction of (I.R.S. Employer
+Incorporation or Organization) Identification No.)
+2701 San Tomas Expressway
+Santa Clara, California 95050
+(408) 486-2000
+(Address, including zip code, and telephone number, including area code, of principal executive offices)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class Name of each exchange on which registered
+Common Stock, $0.001 par value per share The NASDAQ Global Select Market
+Securities registered pursuant to Section 12(g) of the Act:
+None
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes (cid:1) No (cid:3)
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes (cid:3) No (cid:1)
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the
+preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past
+90 days. Yes (cid:1) No (cid:3)
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be
+submitted and posted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the
+registrant was required to submit and post such files). Yes (cid:1) No (cid:3)
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K (§ 229.405 of this chapter) is not contained herein, and will not be
+contained, to the best of registrant’s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K. (cid:3)
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See
+definitions of “large accelerated filer,” “accelerated filer” and “smaller reporting company” in Rule 12b-2 of the Exchange Act. (Check one)
+Large accelerated filer  Accelerated filer (cid:3)
+Non-accelerated filer (cid:3) (Do not check if a smaller reporting company) Smaller reporting company (cid:3)
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes (cid:3) No (cid:1)
+The aggregate market value of the voting stock held by non-affiliates of the registrant as of July 26, 2013 was approximately $7.82 billion (based on the closing
+sales price of the registrant's common stock as reported by the NASDAQ Global Select Market on July 26, 2013). This calculation excludes approximately
+27,595,765 shares held by directors and executive officers of the registrant. This calculation does not exclude shares held by such organizations whose ownership
+exceeds 5% of the registrant's outstanding common stock that have represented to the registrant that they are registered investment advisers or investment
+companies registered under section 8 of the Investment Company Act of 1940.
+The number of shares of common stock outstanding as of March 7, 2014 was 554,241,412.
+DOCUMENTS INCORPORATED BY REFERENCE
+Portions of the registrant's Proxy Statement for its 2014 Annual Meeting of Stockholders to be filed with the Securities and Exchange Commission pursuant to
+Regulation 14A not later than 120 days after the end of the fiscal year covered by this Annual Report on Form 10-K are incorporated by reference into Part III,
+Items 10-14 of this Annual Report on Form 10-K.
