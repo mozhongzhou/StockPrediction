@@ -5,10 +5,11 @@ import os
 # 股票代码列表
 stocks = ["AAPL", "MSFT", "GOOGL", "NVDA", "TSLA"]
 start_date = "2013-01-01"
-end_date = "2025-03-01"
+end_date = "2025-03-09"
 
-# 创建保存路径（使用绝对路径）
-output_dir = "/data/raw/kline"
+# 创建保存路径（使用相对路径）
+base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../../"))  # 项目根目录
+output_dir = os.path.join(base_dir, "data", "raw", "kline")
 os.makedirs(output_dir, exist_ok=True)
 print(f"Data will be saved to: {output_dir}")
 
