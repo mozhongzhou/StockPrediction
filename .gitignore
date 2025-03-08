@@ -1,4 +1,4 @@
 # 忽略数据文件
 data/processed/*
-data/raw/*
+data/raw/kline/*
 models/*
