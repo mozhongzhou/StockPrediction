@@ -17,7 +17,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # 设置输入输出路径
-base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../.."))  # 项目根目录
+base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../../"))  # 项目根目录
 input_dir = os.path.join(base_dir, "data", "raw", "kline")  # 原始 K 线数据目录
 output_dir = os.path.join(base_dir, "data", "processed", "kline")  # 清洗后数据目录
 
