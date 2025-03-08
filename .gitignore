@@ -2,3 +2,4 @@
 data/processed/*
 data/raw/kline/*
 models/*
+logs/*

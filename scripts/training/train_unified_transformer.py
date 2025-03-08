@@ -25,7 +25,11 @@ class UnifiedStockDataset(Dataset):
         for stock in stocks:
             file = os.path.join(labeled_dir, f"{stock}_{kline_type}_labeled.csv")
             if os.path.exists(file):
-                df = pd.read_csv(file, parse_dates=["Date"])
+                df = pd.read_csv(
+                    file,
+                    parse_dates=["Date"],
+                    dtype={"10k_date": str}  # 强制 10k_date 为字符串
+                )
                 df["ticker"] = stock  # 添加 ticker 列以区分股票
                 dfs.append(df)
             else:
@@ -43,7 +47,7 @@ class UnifiedStockDataset(Dataset):
         kline = torch.tensor(kline, dtype=torch.float32)
         
         ticker = self.df.iloc[idx]["ticker"]
-        report_date = self.df.iloc[idx]["10k_date"]
+        report_date = str(self.df.iloc[idx]["10k_date"]).replace(".0", "")  # 转换为字符串并移除 .0
         report_file = os.path.join(report_dir, f"{ticker}_10-K_{report_date}.txt")
         if not os.path.exists(report_file):
             logger.warning(f"10-K file not found: {report_file}, using empty text")
