@@ -1,5 +1,6 @@
 # 项目架构
 
+```
 StockPrediction/
 ├── data/ # 存放原始和处理后的数据
 │ ├── raw/ # 原始数据（如 K 线、10-K 财报）
@@ -42,3 +43,4 @@ StockPrediction/
 ├── requirements.txt # 依赖包列表
 ├── main.py # 主入口脚本（可选）
 └── README.md # 项目说明
+```
